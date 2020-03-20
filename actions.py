@@ -12,7 +12,7 @@ class ActionGetFAQAnswer(Action):
 
     def __init__(self):
         super(ActionGetFAQAnswer, self).__init__()
-        self.faq_data = json.load(open("./data/nlu/faq.json", "rt", encoding="utf-8"))
+        self.faq_data = json.load(open("./data/nlu/qa.json", "rt", encoding="utf-8"))
 
     def name(self) -> Text:
         return "action_get_answer"
