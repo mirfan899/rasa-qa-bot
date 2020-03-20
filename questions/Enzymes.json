@@ -1,0 +1,252 @@
+[
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Cofactor",
+      "B.": "Coenzymes",
+      "C.": "Activator",
+      "D.": "Enzymes"
+    },
+    "question": "Biological molecules (proteins) which catalyze a biochemical reaction and remain unchanged after completion of reaction are called"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Some of them consist solely of protein with no non protein part.",
+      "B.": "They catalyze a chemical reaction without being utilized.",
+      "C.": "All enzymes are fibrous Proteins.",
+      "D.": "They without their cofactor are called apoenzyme."
+    },
+    "question": "Which statement about enzyme is incorrect:"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Nucleus",
+      "B.": "Chlorophast",
+      "C.": "Milochondria",
+      "D.": "Ribosome"
+    },
+    "question": "In which of the following location enzymes controlling cellular respiration are present?"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Apoenzyme",
+      "B.": "Holoenzyme",
+      "C.": "Activated enzyme",
+      "D.": "Both b and c"
+    },
+    "question": "An activated enzyme consisting of polypeptide chain and a cofactor is called:"
+  },
+  {
+    "answer": "A ",
+    "options": {
+      "A.": "Vitamins",
+      "B.": "Carbohydrates",
+      "C.": "Proteins",
+      "D.": "Metals"
+    },
+    "question": "Which one forms the raw material for coenzymes?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Prosthetic group",
+      "B.": "Coenzyme",
+      "C.": "Activator",
+      "D.": "Cofactor"
+    },
+    "question": "A cofactor made of inorganic ion which is detachable is called"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Increases",
+      "B.": "Decreases",
+      "C.": "Does not effect",
+      "D.": "Increases or decreases depending upon individual enzyme"
+    },
+    "question": "Enzymes _________ the activation energy of a chemical reaction"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Active site",
+      "B.": "Binding site",
+      "C.": "Catalytic site",
+      "D.": "Allosteric site"
+    },
+    "question": "A three dimensional dcavity bearing a specific charge by which the enzyme reacts with its substrate is called"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Change in pH of the surroundings.",
+      "B.": "Formation of Enzyme Susstrate complex.",
+      "C.": "Change in the charge of the active site.",
+      "D.": "Change in temperature"
+    },
+    "question": "Which step causes activation of catalytic site of an enzyme?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Emil Fischer",
+      "B.": "Koshland",
+      "C.": "Robin Williams",
+      "D.": "Rudolph Virchow"
+    },
+    "question": "Lock and Key model was proposed by"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Specific enzyme can transform only a specific substrate",
+      "B.": "Active site of an enzyme is a non flexible structure.",
+      "C.": "Active site does not change before during or even after the reaction.",
+      "D.": "It explains the mechanism of every chemical reaction."
+    },
+    "question": "Which statement is incorrect about Lock and Key Model?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Increase in enzyme molecule increases the available active sites.",
+      "B.": "This relation is for unlimited time period with unlimited enzyme concentration",
+      "C.": "If the concentration is doubled the rate will become two fold.",
+      "D.": "None of these."
+    },
+    "question": "The rate of reaction is directly proportional to the concentration of an enzyme which statement is incorrect in this respect:"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Enzymes get denatured at higher substrate conc.",
+      "B.": "Rate of reaction is indirectly proportional to substrate concentration at this point.",
+      "C.": "All the active sites on enzyme molecule are occupied.",
+      "D.": "None of these."
+    },
+    "question": "If the concentration of enzyme is kept constant and amount of substrate is increased a point is reached where increase in substrates concentration does not affect the reaction rate because of"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "There is probably more substrate present than there is enzyme.",
+      "B.": "There is probably more enzayme available than there is substrate.",
+      "C.": "There is probably more product present than there is either substrate or enzyme.",
+      "D.": "The enzyme substrate complex is probably failing to form during the reaction."
+    },
+    "question": "If more substrate to already occurring enzymatic reaction is added more enzyme activity is seen because:"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Saturation",
+      "B.": "Denaturation",
+      "C.": "Composition",
+      "D.": "Inhibition"
+    },
+    "question": "If more substrate to already occurring enzymatic reaction is added and there is no effect on the rate of the reaction what is the form given to this situation:"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Never changes",
+      "B.": "Forms no chemical bond with substrate",
+      "C.": "Determined by structure and the specificity of the enzyme.",
+      "D.": "They are non specific in their action."
+    },
+    "question": "The active site of an enzyme:"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Activate",
+      "B.": "Unaffected",
+      "C.": "Denatured",
+      "D.": "None of these."
+    },
+    "question": "Excessive increase in temperature of medium causes the enzyme molecule to"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Change in ionization of amino acids at the active site of the enzyme.",
+      "B.": "Change in the ionization of the substrate.",
+      "C.": "Denaturation of the enzyme",
+      "D.": "Increase in the reaction rate."
+    },
+    "question": "Extreme change in pH results in:"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "27?C",
+      "B.": "37?C",
+      "C.": "47?C",
+      "D.": "30?C"
+    },
+    "question": "Optimal temperature of enzymes present in human body is"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Co-enzyme",
+      "B.": "Blocker",
+      "C.": "Inhibitor",
+      "D.": "Cofactor"
+    },
+    "question": "A chemical substance which can react (in place of substrate) with the enzyme but is not transformed into product/s and thus blocks the active site temporarily or permanently is called"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Competitive inhibitors.",
+      "B.": "Non-competitive inhibitors",
+      "C.": "Irreversible inhibitors.",
+      "D.": "Both a and b"
+    },
+    "question": "Inhibitors which block the enzyme by forming weak bond are called"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Irreversible inhibitor",
+      "B.": "Reversible inhibitor",
+      "C.": "Competitive inhibitor",
+      "D.": "Non-competitive inhibitor"
+    },
+    "question": "A substance which binds at the active site of the enzyme but does not result in the formation of the products is called:"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Irreversible inhibitor",
+      "B.": "Reversible inhibitor",
+      "C.": "Competitive inhibitor",
+      "D.": "Non-competitive inhibitor"
+    },
+    "question": "The structure of an enzyme is altered by:"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Irreversible inhibitor",
+      "B.": "Reversible inhibitor",
+      "C.": "Competitive inhibitor",
+      "D.": "Non-competitive inhibitor"
+    },
+    "question": "Malonic acid is an example of:"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "increase in concentration of enzyme",
+      "B.": "increase in concentration of substrate",
+      "C.": "increase in pH",
+      "D.": "increase in temperature"
+    },
+    "question": "If enzyme concentration is low than substrate pH and temperature values are equal to requirement then which of the following will increase rate of reaction."
+  }
+]

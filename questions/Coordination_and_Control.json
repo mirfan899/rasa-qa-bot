@@ -1,0 +1,602 @@
+[
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Accumulation of toxic waste products in leaves.",
+      "B.": "Deficiency of chlorophyll.",
+      "C.": "Short supplies of mineral nutrients in the soil.",
+      "D.": "All of these"
+    },
+    "question": "Chlorosis, i.e., yellowish hue on the leaves results from"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Indole propionic acid.",
+      "B.": "Indole carboxylic acid.",
+      "C.": "Indole acetaldehyde",
+      "D.": "Indole acetic acid."
+    },
+    "question": "Chemically auxins are"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "White",
+      "B.": "Red",
+      "C.": "Blue",
+      "D.": "Green"
+    },
+    "question": "Gibberellins may be substituted for _____ light, therefore promote flowering in long day plants."
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Gibberellins",
+      "B.": "Cytokinins",
+      "C.": "Abscisic Acid",
+      "D.": "none of these."
+    },
+    "question": "Which of the following is antagonist to Auxin in terms of promotion of stem growth?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Gibberellins",
+      "B.": "Cytokinins",
+      "C.": "Auxins",
+      "D.": "Ethene."
+    },
+    "question": "Abscisic acid promotes flowering in short day plants and inhibits in long day plants, which of the following is antagonistic to abscisic acid in terms of flowering:"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Gibberellins",
+      "B.": "Cytokinins",
+      "C.": "Auxins",
+      "D.": "Abscisic Acid"
+    },
+    "question": "The only promoter of leaf senescence in the following plant hormones is:"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Gibberellins",
+      "B.": "Cytokinins",
+      "C.": "Auxins",
+      "D.": "Abscisic Acid"
+    },
+    "question": "Which of the following is used in brewing industry to promote malting:"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Chemoreceptors",
+      "B.": "Mechanoreceptors",
+      "C.": "Photoreceptors",
+      "D.": "Thermoreceptors"
+    },
+    "question": "Which type of the receptors are present in the ear?"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Touch.",
+      "B.": "Temperature.",
+      "C.": "Pressure.",
+      "D.": "Pain"
+    },
+    "question": "Type of sensations carried by nociceptors are:"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Hair end organs",
+      "B.": "Meissner's Corpuscles.",
+      "C.": "Pacinian corpuscles.",
+      "D.": "None of these."
+    },
+    "question": "Which type of sensory structures carrying the touch sensations are present in papillae extending into ridges of the fingertips?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Hair end organs",
+      "B.": "Meissner's Corpuscles.",
+      "C.": "Pacinian corpuscles.",
+      "D.": "none of these."
+    },
+    "question": "Which type of sensory structures carry deep pressure and vibration sensations?"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Axoplasm",
+      "B.": "Myelin sheath.",
+      "C.": "Dendrite.",
+      "D.": "Soma."
+    },
+    "question": "Nissl's granules are present in which part of the neuron?"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "They not only conduct impulses but also generate them.",
+      "B.": "They are not the only cellular component of nervous system.",
+      "C.": "They may show limited regenerative capabilities.",
+      "D.": "Like all the living cell, when they mature and divide to form similar cells."
+    },
+    "question": "Which of the following statement about neuron is incorrect?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Sensory neurons",
+      "B.": "Motor neurons",
+      "C.": "Associative neurons",
+      "D.": "None of these."
+    },
+    "question": "Type of neurons found exclusively in CNS are:"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Active",
+      "B.": "Passive",
+      "C.": "Diffusional",
+      "D.": "None of these."
+    },
+    "question": "Maintenance of normal resting potential via movement of K+ inside the cell and na+ out is a/an _______ process."
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Na+",
+      "B.": "K+",
+      "C.": "Cl-",
+      "D.": "PO4-2"
+    },
+    "question": "Cell membrane under resting conditions is impermeable to all the ions except"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Active transport.",
+      "B.": "Passive transport.",
+      "C.": "Diffusion.",
+      "D.": "none of these."
+    },
+    "question": "At the induction of action potential opening of Na+ gate with influx of Na+ is a _________ processes:"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "? 50 mv",
+      "B.": "? 60 mv",
+      "C.": "? 70 mv",
+      "D.": "? 80 mv"
+    },
+    "question": "Normal resting membrane potential of a neuron is"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "plus 50 mv",
+      "B.": "plus 60 mv",
+      "C.": "plus 70 mv",
+      "D.": "plus 80 mv"
+    },
+    "question": "Normal action potential of a neuronal cell is :"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Maintenance of resting potential.",
+      "B.": "Massive out flux of K+ after depolarization.",
+      "C.": "Recovery of resting potential.",
+      "D.": "Conversion of resting potential into action potential."
+    },
+    "question": "Na+ -K+ ATPase pump is important for:"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "100 m/sec",
+      "B.": "110 m/sec",
+      "C.": "120m/sec",
+      "D.": "130 m/sec."
+    },
+    "question": "Maximum speed of nerve impulse transmission is"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Hydra",
+      "B.": "Man",
+      "C.": "Planaria",
+      "D.": "Cockroach"
+    },
+    "question": "Which of the following has no central nervous system?"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Regulation of body functions",
+      "B.": "Organization of body functions",
+      "C.": "Integration of body functions",
+      "D.": "All of these"
+    },
+    "question": "Co-ordination results in"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Receptors",
+      "B.": "Neurons",
+      "C.": "Effectors",
+      "D.": "All of these"
+    },
+    "question": "Which of the following are responsible for the detection of changes in environment?"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Muscles",
+      "B.": "Glands",
+      "C.": "Sensory organs",
+      "D.": "Both 'a' & 'b'"
+    },
+    "question": "Which of the followings are effectors?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Stimulus",
+      "B.": "Variation",
+      "C.": "Response",
+      "D.": "Reaction"
+    },
+    "question": "Any change in the environment of an organism is called"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Brain",
+      "B.": "Nerves",
+      "C.": "Neuron-cells",
+      "D.": "All of these"
+    },
+    "question": "Hydra has"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Ganglia",
+      "B.": "Longitudinal nerves",
+      "C.": "Lateral nerves",
+      "D.": "none of these."
+    },
+    "question": "Which of the followings is missing from the nervous system of planaria?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Nervous system",
+      "B.": "Endocrine system",
+      "C.": "Both of these",
+      "D.": "none of these."
+    },
+    "question": "Co-ordination in man is brought about by"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Sensory neuron",
+      "B.": "Motor neuron",
+      "C.": "Associative neuron",
+      "D.": "none of these."
+    },
+    "question": "Which of the following transmits nerve impulse from receptors to central nervous system?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Sensory neuron",
+      "B.": "Motor neuron",
+      "C.": "Associative neuron",
+      "D.": "none of these."
+    },
+    "question": "In which of the following neurons length of dendrite is greater than axon?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Sensory neuron",
+      "B.": "Motor neuron",
+      "C.": "Associative neuron",
+      "D.": "none of these."
+    },
+    "question": "Which of the following neuron has a single long dendron?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Dendrites",
+      "B.": "Axon",
+      "C.": "Both of these",
+      "D.": "none of these."
+    },
+    "question": "Which of the following cytoplasmic extensions carry the message toward the cell body?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Transmitters",
+      "B.": "Synapses",
+      "C.": "Pores",
+      "D.": "Nodes"
+    },
+    "question": "Microscopic gaps between the neuron endings are called"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "To allow nerve impulse to move in backward direction",
+      "B.": "To decrease the speed of nerve impulse",
+      "C.": "To stop the nerve impulse",
+      "D.": "To provide cytoplasmic connection between neurons."
+    },
+    "question": "What is the function of synapse?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Outer surface of neuron is more positive",
+      "B.": "Inner surface of neuron is more positive",
+      "C.": "Both of these surfaces are equally positive",
+      "D.": "none of these."
+    },
+    "question": "Under resting membrane potentials"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Na+",
+      "B.": "K+",
+      "C.": "Fe",
+      "D.": "none of these."
+    },
+    "question": "Which of the following ions are involved in the initiation of nerve impulse"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Brain",
+      "B.": "Spinal cord",
+      "C.": "Hypothalamus",
+      "D.": "none of these."
+    },
+    "question": "Reflex actions below the neck are under control of"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Brain",
+      "B.": "Spinal cord",
+      "C.": "Both of these",
+      "D.": "none of these."
+    },
+    "question": "Central nervous system of man consists of"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Cerebrum",
+      "B.": "Cerebellum",
+      "C.": "Medulla oblongata",
+      "D.": "Thalamus"
+    },
+    "question": "Which of the following is largest part of brain"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Brain",
+      "B.": "Spinal cord",
+      "C.": "Both of these",
+      "D.": "none of these."
+    },
+    "question": "Which of the following is present inside the vertebral column"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Cerebrum",
+      "B.": "Cerebellum",
+      "C.": "Thalamus",
+      "D.": "Hypothalamus"
+    },
+    "question": "Intelligence is under the control of"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Cerebrum",
+      "B.": "Cerebellum",
+      "C.": "Thalamus",
+      "D.": "Hypothalamus"
+    },
+    "question": "Which of the following is second largest part of the brain?"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Cerebrum",
+      "B.": "Cerebellum",
+      "C.": "Thalamus",
+      "D.": "Hypothalamus"
+    },
+    "question": "Which of the following acts as thermoregulator?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Cerebrum",
+      "B.": "Cerebellum",
+      "C.": "Thalamus",
+      "D.": "Hypothalamus"
+    },
+    "question": "Which of the following allows precise muscular movements?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Chemical",
+      "B.": "Mechanical",
+      "C.": "Photo",
+      "D.": "Nociceptors"
+    },
+    "question": "Receptors for hearing come under heading of"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Parkinson's disease",
+      "B.": "Epilepsy",
+      "C.": "Alzheimer's discease",
+      "D.": "Dementia"
+    },
+    "question": "It is one of the convulsive disorders of nerves which are characterized by abrupt transient symptoms of motor, sensory, psychic or autonomic nature."
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Conduction",
+      "B.": "Regeneration",
+      "C.": "Reflex",
+      "D.": "Movement"
+    },
+    "question": "Which of the following feature is not related to neuron"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "0.03 V",
+      "B.": "0.05 V",
+      "C.": "0.07 V",
+      "D.": "0.09V"
+    },
+    "question": "Value of resting membrane potential is"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "10",
+      "B.": "11",
+      "C.": "12",
+      "D.": "13"
+    },
+    "question": "Number of pairs of cranial nerves is"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Myxedema",
+      "B.": "Cretinism",
+      "C.": "Goiter",
+      "D.": "Exopthalmic goiter"
+    },
+    "question": "Insufficient secretion of iodothyroxine in adults causes"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Protein",
+      "B.": "Amino acid derivative",
+      "C.": "Polypeptide",
+      "D.": "Steroid"
+    },
+    "question": "Insulin and glucagons are ________ in nature."
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "STH",
+      "B.": "TSH",
+      "C.": "ACTH",
+      "D.": "Thyroxin"
+    },
+    "question": "Acromegaly is caused due to oversecretion of"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Anterior pituitary",
+      "B.": "Median pituitary",
+      "C.": "Posterior pituitary",
+      "D.": "None of these"
+    },
+    "question": "MSH is produced from"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Undersecretion of thyroxin",
+      "B.": "Overproduction of thyroxin",
+      "C.": "Undersecretion of corticosteroids",
+      "D.": "Overproduction of corticosteroids"
+    },
+    "question": "Grave's disease is produced due to"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Stomach",
+      "B.": "Liver",
+      "C.": "Pancreas",
+      "D.": "Duodenum"
+    },
+    "question": "Secretin is a hormone produced by"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Produce chemical messengers",
+      "B.": "Release chemical messengers in extracellular space",
+      "C.": "Homestatic in function",
+      "D.": "Having slow but prolonged effects"
+    },
+    "question": "All of the following are similarities between nervous and endocrine system except"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Kinesis",
+      "B.": "Taxes",
+      "C.": "Instinct",
+      "D.": "Learning"
+    },
+    "question": "Types of behaviour enabling pillbugs to reach moist area is"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Thorpe",
+      "B.": "Darwin",
+      "C.": "Pavlov",
+      "D.": "Kohler"
+    },
+    "question": "_________ was first to propose an objective definition of instinct."
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Imprinting",
+      "B.": "Habituation",
+      "C.": "Insight learning",
+      "D.": "Latent learning"
+    },
+    "question": "_______ is simplest form of learning."
+  }
+]

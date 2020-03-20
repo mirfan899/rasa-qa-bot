@@ -1,0 +1,42 @@
+session_config:
+  session_expiration_time: 0.0
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- faq
+- affirm
+- deny
+entities:
+- reject
+- accept
+slots:
+  accept:
+    type: text
+    initial_value: yes
+  reject:
+    type: text
+    initial_value: No
+responses:
+  utter_greet:
+  - text: Hi, is there any question I can answer for you?
+  utter_goodbye:
+  - text: Awesome, nice to hear that.
+  utter_default:
+  - text: Sorry, I don't know what you mean.
+  utter_helpful:
+  - text: Was that helpful?
+  utter_not_helpful:
+  - text: Oh, I'm sorry, could you ask the question in a different way, maybe simplify
+      the question
+  utter_sorry:
+  - text: I could not find an answer for that, could you simplify the question or
+      ask in different way?
+actions:
+- actions.ActionGetFAQAnswer
+- utter_greet
+- utter_goodbye
+- action_get_answer
+- utter_helpful
+- utter_not_helpful
+- utter_default
+- utter_sorry

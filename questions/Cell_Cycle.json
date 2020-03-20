@@ -1,0 +1,402 @@
+[
+  {
+    "answer": "A ",
+    "options": {
+      "A.": "Interphase",
+      "B.": "Resting phase",
+      "C.": "Mitotic phase",
+      "D.": "Cell cycle"
+    },
+    "question": "Period between two consecutive divisions is called"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "G1 phase",
+      "B.": "S phase",
+      "C.": "G2 phase",
+      "D.": "G0 phase"
+    },
+    "question": "DNA is synthesized and chromosome number is doubled in"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "G0 phase",
+      "B.": "G1 phase",
+      "C.": "G2 phase",
+      "D.": "S phase"
+    },
+    "question": "In case of neurons, post mitotic cell escapes cell cycle and remain in _______ phase whthout proliferating further"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "In human, cell cycle is about 24 hrs",
+      "B.": "Mitosis takes 30 min",
+      "C.": "G2 5.5 hrs",
+      "D.": "Yeast cell only 90 min"
+    },
+    "question": "Which statement is incorrect?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Diploid cells only",
+      "B.": "Haploid cells only",
+      "C.": "Both diploid and haploid cells",
+      "D.": "Monoploid cells"
+    },
+    "question": "Mitosis occurs in"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Action protein",
+      "B.": "Actin and myosin proteins",
+      "C.": "Sphingomyelin and tubulin",
+      "D.": "Tubulin protein and traces of RNA"
+    },
+    "question": "Microtubules are composed of"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "2",
+      "B.": "3",
+      "C.": "4",
+      "D.": "5"
+    },
+    "question": "From each pair of centrioles ________ sets of microtubules originate"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Aster and spindle",
+      "B.": "Polar and kinetochore microtubules",
+      "C.": "Spindle and RNA",
+      "D.": "Spindle only"
+    },
+    "question": "Mitotic apparatus in animals is formed by"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Chromatin",
+      "B.": "Aster",
+      "C.": "Kinetochore",
+      "D.": "Primary constriction"
+    },
+    "question": "A special area of centromere with specific base arrangement and specific proteins where spindle fibers are attached is called"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "5",
+      "B.": "4",
+      "C.": "3",
+      "D.": "2"
+    },
+    "question": "Each kinetochore gets ________ fibers in mitosis"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Prophase",
+      "B.": "Anaphase",
+      "C.": "Metaphase",
+      "D.": "Telophase"
+    },
+    "question": "Most critical phase of mitosis is"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Interphase",
+      "B.": "Metaphase",
+      "C.": "Anaphase",
+      "D.": "Telophase"
+    },
+    "question": "Reverse of prophase is"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Centriole",
+      "B.": "Centriole and asters",
+      "C.": "Centrioles, asters and spindles",
+      "D.": "Spindles only"
+    },
+    "question": "In plants mitotic apparatus consists of"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Formed from vesicle originating from Golgi apparatus",
+      "B.": "Present in plants only",
+      "C.": "Formed at the end of anaphase",
+      "D.": "Centre of dividing cell"
+    },
+    "question": "Which statement is not true about phragmoplast?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Benign tumors",
+      "B.": "Cancer",
+      "C.": "Metastasis",
+      "D.": "Epistasis"
+    },
+    "question": "Spread of tumor cells and establishment of secondary areas of growth is"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Localized",
+      "B.": "Little deleterious effects",
+      "C.": "Few mitosis",
+      "D.": "Metastasize"
+    },
+    "question": "Which is a feature of malignant tumor?"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "High nucleus to cytoplasmic ratio",
+      "B.": "Prominent nucleoli",
+      "C.": "Many mitosis",
+      "D.": "All of these"
+    },
+    "question": "Feature of cancer cells in common?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Diploid cells only",
+      "B.": "Haploid cells only",
+      "C.": "Both diploid and haploid cells",
+      "D.": "Monoploid cells only"
+    },
+    "question": "Meiosis occur in"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Gamete formation in animals",
+      "B.": "Spore formattion in plants",
+      "C.": "Growth in animals",
+      "D.": "Both a and b"
+    },
+    "question": "Meiosis occurs at the time of"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "G0 phase",
+      "B.": "G1 phase",
+      "C.": "G2 phase",
+      "D.": "S phase"
+    },
+    "question": "Interphase of meiosis lacks"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Similar and identical",
+      "B.": "Identical but not similar",
+      "C.": "Not similar and not identical",
+      "D.": "Similar but not identical"
+    },
+    "question": "Homologous chromosomes are"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Metaphase",
+      "B.": "Anaphase",
+      "C.": "Prophase",
+      "D.": "Telophase"
+    },
+    "question": "The longest phase of meiosis I is"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Paired homologous chromosome but not fused complex structure",
+      "B.": "2 unpaired homologous chromosome",
+      "C.": "Paired and fused complex structure",
+      "D.": "None of these"
+    },
+    "question": "Tetrad or bivalent is"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Leptotene",
+      "B.": "Zygotene",
+      "C.": "Pachytene",
+      "D.": "Diplotene"
+    },
+    "question": "Pairing of homologous chromosomes is completed in"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "3 chromatids",
+      "B.": "4 chromatids",
+      "C.": "5 chromatids",
+      "D.": "2 chromatids"
+    },
+    "question": "Each bivalent has"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Sister chromatids",
+      "B.": "Non sister chromatids",
+      "C.": "Independent chromatids",
+      "D.": "Each and every chromatid"
+    },
+    "question": "Crossing over occurs between"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Crossing over",
+      "B.": "Chromosomal disjunction",
+      "C.": "Chromosomal nondisjunction",
+      "D.": "None of these"
+    },
+    "question": "Inability of chromosomes to segregate during anaphase and telophase of meiosis is called"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Down's syndrome involves autosome",
+      "B.": "In Turner's syndrome 2n-1",
+      "C.": "In Klinefelter's syndrome XYY",
+      "D.": "In Down's syndrome sperms are commonly involved"
+    },
+    "question": "Which statement is incorrect?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Cell death due to tissue damage",
+      "B.": "Causes inflammation",
+      "C.": "Internal programme of events by which cell commits suicide",
+      "D.": "Damages neighboring cells"
+    },
+    "question": "Apoptosis"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Mitosis",
+      "B.": "Meiosis",
+      "C.": "Amitosis",
+      "D.": "Budding"
+    },
+    "question": "A cell of human being has 46 chromosomes; it divides to form some daughter cells, each having 23 pairs of chromosomes. The division would be"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Healing of wound",
+      "B.": "Development and growth",
+      "C.": "Vegetative propagation",
+      "D.": "All of these"
+    },
+    "question": "Mitosis takes place during"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "A male having 2 X chromosomes",
+      "B.": "A female having 3 X chromosomes",
+      "C.": "A male having only 1 Y chromosome",
+      "D.": "A female having only 1 X chromosome"
+    },
+    "question": "Which of the following category comes under Turner's syndrome?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Telophase",
+      "B.": "Metaphase",
+      "C.": "Prophase",
+      "D.": "All of these"
+    },
+    "question": "Morphology of chromosomes is best studied during"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Division of nucleus",
+      "B.": "Division of cytoplasm",
+      "C.": "Division of cell",
+      "D.": "All of these"
+    },
+    "question": "Cytokinins refers to"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Astral fibers",
+      "B.": "Kinetochore fibers",
+      "C.": "Polar fibers",
+      "D.": "All of these"
+    },
+    "question": "Which fibers intedigitate with each other?"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Differentiated",
+      "B.": "Undifferentiated",
+      "C.": "Highly differentiated",
+      "D.": "Less differentiated"
+    },
+    "question": "Cancer cells are"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Zygotene",
+      "B.": "Pachytene",
+      "C.": "Dislotene",
+      "D.": "Diakinesis"
+    },
+    "question": "Crossing over in meiosis occurs during"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Mitosis",
+      "B.": "Meiosis I",
+      "C.": "Meiosis II",
+      "D.": "None of these"
+    },
+    "question": "Which division does not show replication of chromosomes?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Crossing over",
+      "B.": "Random assortment",
+      "C.": "Both of these",
+      "D.": "None of these"
+    },
+    "question": "A significant happening of meiosis is / are"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "XO",
+      "B.": "XXX",
+      "C.": "XXY",
+      "D.": "XYY"
+    },
+    "question": "Jacob's syndrome can be represented as"
+  }
+]

@@ -1,0 +1,792 @@
+[
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Chemistry",
+      "B.": "Biochemistry",
+      "C.": "Molocular biology",
+      "D.": "Both a and b"
+    },
+    "question": "The branch of biology which deals with the study of chemical compounds and the chemical processes in the fliving organisms is called:"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "CO2",
+      "B.": "Water",
+      "C.": "Lipids",
+      "D.": "HCI"
+    },
+    "question": "Which one is an organic compound?"
+  },
+  {
+    "answer": "A ",
+    "options": {
+      "A.": "Water",
+      "B.": "Carbohydrate",
+      "C.": "Proteins",
+      "D.": "Lipids"
+    },
+    "question": "Which chemical component has the same % in bacterial as well as the mammalian cell?"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Proteins",
+      "B.": "Carbohydrate",
+      "C.": "Lipids",
+      "D.": "Water"
+    },
+    "question": "Which chemical component has the greatest contribution in the total mammalian cell weight?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Metabolic reactions",
+      "B.": "Catabolic reactions",
+      "C.": "Anabolic reactions",
+      "D.": "None of these"
+    },
+    "question": "Reactions in which simple substances are combined to form complex substances are called:"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Oxygen",
+      "B.": "Hydrogen",
+      "C.": "Sulphur",
+      "D.": "Carbon"
+    },
+    "question": "Which one is the basic element of organic compounds ?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Ionic bond",
+      "B.": "Hydrogen bond",
+      "C.": "Covalent bond",
+      "D.": "Electrovalent bond"
+    },
+    "question": "The bond formed when two or more atoms complete their electron shells by sharing electrons is called:"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Monovalent",
+      "B.": "Divalent",
+      "C.": "Trivalent",
+      "D.": "Tetravalent"
+    },
+    "question": "Carbon atom is"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "C-H",
+      "B.": "C-O",
+      "C.": "C-C",
+      "D.": "C-N"
+    },
+    "question": "Which bond provides stability to complex carbohydrate molecules?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "20%",
+      "B.": "80%",
+      "C.": "85%",
+      "D.": "90%"
+    },
+    "question": "% of water in brain cells is"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Ionic as well as non ionic substance in aqueous media retains their identity.",
+      "B.": "Enzymes can not perform catalysis reaction in this medium.",
+      "C.": "Ions and molecules move randomly thus are in more favorable state to react with other molecules and ions.",
+      "D.": "It is less favorable media for chemical reactions."
+    },
+    "question": "Which statement is true about an aqueous medium:"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Hydrophilic Carbohydrates",
+      "B.": "Hydrophobic fats.",
+      "C.": "Both a and b",
+      "D.": "None of these"
+    },
+    "question": "Which of the following substance is most favorable to form structural component of biological membranes?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Specific Heat of Vaporization",
+      "B.": "Specific Heat capacity",
+      "C.": "Caloric Heat",
+      "D.": "Both A and C"
+    },
+    "question": "The number of calories required to raise the temperature of 1g of water from 15 to 16?C is called?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "High specific heat of vaporization",
+      "B.": "High specific heat capacity",
+      "C.": "Its Dipole nature",
+      "D.": "Its liquid state"
+    },
+    "question": "The property of water due to which it works as a temperature stabilizer and hence protect living organisms from sudden thermal changes is:"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "574 Kcal/kg",
+      "B.": "674 Kcal/kg",
+      "C.": "774 Kcal/kg",
+      "D.": "874 Kcal/kg"
+    },
+    "question": "Specific heat of vaporization of water is:"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Lipid",
+      "B.": "Carbohydrate",
+      "C.": "Protein",
+      "D.": "Carotein"
+    },
+    "question": "A complex substance which on hydrolysis yields polyhydroxy aldehyde or ketone subunits is called:"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Monosaccharides",
+      "B.": "Oligosaccharides",
+      "C.": "Ploysacharides",
+      "D.": "Carbohydrates"
+    },
+    "question": "Cn(H2O)n. is a general formula of :"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "They are conjugated molecules of carbohydrates",
+      "B.": "Both have role in the extra cellular matrix of animals and bacterial cell wall",
+      "C.": "They are components of biological membranes.",
+      "D.": "Both are produced and secreted by endoplasmic reticulum"
+    },
+    "question": "Which of the statement is not true for compounds like glycoprotein and glycolipids?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Monosaccharides",
+      "B.": "Oligosaccharides",
+      "C.": "Polysaccharides",
+      "D.": "None of these"
+    },
+    "question": "Which one are most complex sugar:"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Monosaccharide",
+      "B.": "Oligosaccharide",
+      "C.": "Polysaccharide",
+      "D.": "None of these"
+    },
+    "question": "Which of the following carbohydrate is tasteless?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Monosaccharide",
+      "B.": "Oligosaccharide",
+      "C.": "Polysaccharide",
+      "D.": "None of these"
+    },
+    "question": "Which of the following carbohydrate can not be hydrolysed?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Trioses",
+      "B.": "Tetroses",
+      "C.": "Pentose",
+      "D.": "Hexose"
+    },
+    "question": "Ribose is an example of"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "0.80%",
+      "B.": "0.08%",
+      "C.": "1.80%",
+      "D.": "8%"
+    },
+    "question": "% of Glucose normally present in our blood is"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Maltose",
+      "B.": "Sucrose",
+      "C.": "Fructose",
+      "D.": "Glucose"
+    },
+    "question": "Starch cellulose and glaycogen yield ________ on complete hydrolysis."
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "717.6 Kcal",
+      "B.": "727 Kcal",
+      "C.": "737 Kcal",
+      "D.": "747 Kcal"
+    },
+    "question": "For the synthesis of 10g of glucose ______ of energy is required:"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Starch",
+      "B.": "Glycogen",
+      "C.": "Cellulose",
+      "D.": "None of these"
+    },
+    "question": "Which one is abundant in animals?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Starch",
+      "B.": "Glycogen",
+      "C.": "Amylose",
+      "D.": "Amylopectin."
+    },
+    "question": "Which one is soluble in hot water?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Phosphodiester bond",
+      "B.": "Peptide bond",
+      "C.": "Glycosidic Bond",
+      "D.": "Ionic bond"
+    },
+    "question": "The covalent bond between two monosaccharide subunits is called:"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Starch",
+      "B.": "Glycogen",
+      "C.": "Cellulose",
+      "D.": "Polysaccharide"
+    },
+    "question": "Which one gives blue colour with iodine?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Starch",
+      "B.": "Glycogen",
+      "C.": "Cellulose",
+      "D.": "None of these"
+    },
+    "question": "Which of the following polysaccharide is called animal starch?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Silk",
+      "B.": "Wool",
+      "C.": "Cotton",
+      "D.": "Paper"
+    },
+    "question": "_________ is example of pure form of cellulose"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Water",
+      "B.": "Ether",
+      "C.": "All solvents",
+      "D.": "Not in any of the above"
+    },
+    "question": "Lipids are soluble in which of the following :"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "C-C bonds",
+      "B.": "C-H bonds",
+      "C.": "C-N bonds",
+      "D.": "C-O bonds"
+    },
+    "question": "Lipid molecules can store double amount of energy as compared to same amount of carbohydrate because of high number of"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Monosaccharide",
+      "B.": "Fatty acid",
+      "C.": "Neutral lipid",
+      "D.": "Nucleic acid"
+    },
+    "question": "A compound produced as a result of a chemical reaction of an alcohol with an acid in which water molecule is released is called:"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Saturated Fatty acid",
+      "B.": "Unsaturated fatty acid",
+      "C.": "Oleic Acid",
+      "D.": "Plamitic acid"
+    },
+    "question": "Fatty acids containing 18 C atoms and a single double bond is"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Acetic acid",
+      "B.": "Butyric acid",
+      "C.": "Palmitic acid",
+      "D.": "All have same"
+    },
+    "question": "Which one the following fatty acid is more soluble in an organic solvent and has higher melting point?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "They contain double bond",
+      "B.": "They are usually solid at room temperature",
+      "C.": "They are lighter than water",
+      "D.": "Their specific gravity is less than 1"
+    },
+    "question": "Which of the following statement is incorrect5 for fats containing unsaturated fatty acid?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Glucose",
+      "B.": "Starch",
+      "C.": "Sucrose",
+      "D.": "Glycogen"
+    },
+    "question": "Animals obtain carbohydrates mainly from"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "C-N link",
+      "B.": "C- O lind",
+      "C.": "N-H link",
+      "D.": "C-H link"
+    },
+    "question": "Peptide bond is:"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "i & ii",
+      "B.": "iii & iv",
+      "C.": "i ii iii & iv",
+      "D.": "iv only"
+    },
+    "question": "Chemical component/s less in eukaryotic cell as compared to prokaryotic cell is / are (i) lipids (ii) carbodydrates (iii) proteins (iv) DNA"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "40%",
+      "B.": "50%",
+      "C.": "60%",
+      "D.": "70%"
+    },
+    "question": "Proteins comprise of _____% of the total dry weight of a cell."
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Fatty acids",
+      "B.": "Isoprenoid units",
+      "C.": "Amino acids",
+      "D.": "Nucleotides"
+    },
+    "question": "Proteins are polymers of"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "C",
+      "B.": "S",
+      "C.": "H",
+      "D.": "N"
+    },
+    "question": "The element in basic structure of proteins which differentiate them from carbohydrates is"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "20",
+      "B.": "25",
+      "C.": "150",
+      "D.": "170"
+    },
+    "question": "Total number of amino acids discovered so far in cells and tissues are"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "H",
+      "B.": "CH3",
+      "C.": "COOH",
+      "D.": "C = O"
+    },
+    "question": "In Glycin an amino acid R group is replaced by"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Phosphodiester linkage",
+      "B.": "Glycosidic bond",
+      "C.": "Peptide bond",
+      "D.": "Hydrogen bond"
+    },
+    "question": "A bond formed by linkage between -OH of carboxyl group of one amino acid and H of amino group of another amino acid which releases water is called"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "554",
+      "B.": "564",
+      "C.": "574",
+      "D.": "584"
+    },
+    "question": "Total number of amino acids in a hemoglobin molecule are:"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "1",
+      "B.": "2",
+      "C.": "3",
+      "D.": "4"
+    },
+    "question": "An insulin molecule consists of _____ polypeptide chains."
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Primary structure",
+      "B.": "Secondary structure",
+      "C.": "Tertiary structure",
+      "D.": "Quaternary structure"
+    },
+    "question": "Which structure of protein gives information aboutnumber and sequence of amino acids in it?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Hydrophobic",
+      "B.": "Hydrophilic",
+      "C.": "Basic",
+      "D.": "None of these"
+    },
+    "question": "In an aqueous environment the most stable tertiary conformation is that in which ______ amino acids are buried inside the conformation."
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "Primary structure",
+      "B.": "Secondary structure",
+      "C.": "Tertiary structure",
+      "D.": "Quaternary structure"
+    },
+    "question": "Hemoglobin molecule exhibits which structural organization of proteins"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "H bonds",
+      "B.": "Disulphide Bond",
+      "C.": "Ionic bond",
+      "D.": "Hydrophobic bonds"
+    },
+    "question": "?- helical structure is kept by the formation of _____ bonds among amino acids molecules."
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Haemoglobin",
+      "B.": "Pepsin",
+      "C.": "Fibrin",
+      "D.": "Insulin"
+    },
+    "question": "Which of the following does not show quaternary structure?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Primary",
+      "B.": "Secondary",
+      "C.": "Tertiary",
+      "D.": "Quaternary"
+    },
+    "question": "Which structural organization is most common in globular proteins?"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Globular proteins",
+      "B.": "Fibrous Proteins",
+      "C.": "Both a and b",
+      "D.": "None of these"
+    },
+    "question": "Actin and myosin are the basic proteins involved in contractile machinery of our body to which type of proteins do they belong?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Globular proteins",
+      "B.": "Fibrous Proteins",
+      "C.": "Both a and b",
+      "D.": "None of these"
+    },
+    "question": "Antibodies play important role against microorganisms and other pathogens to which type of proteins do they belong?"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "As an energy currency of the cell",
+      "B.": "As a coenzyme",
+      "C.": "Both a and b",
+      "D.": "None of these"
+    },
+    "question": "ATP is a an important molecule for its major function"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "5",
+      "B.": "10",
+      "C.": "20",
+      "D.": "25"
+    },
+    "question": "Each turn of DNA contain _______ nitrogenous base pairs"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Human beings",
+      "B.": "Influenza Virus",
+      "C.": "Hemophilus Influenza",
+      "D.": "None of these"
+    },
+    "question": "The first organism of whose genome was completely discovered was"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "The pentose sugar in it is Ribose.",
+      "B.": "It contains Adenine Guanine Thymine and Cytosine",
+      "C.": "It is present in the nucleoli",
+      "D.": "It may be folded back on itself to give double helical characteristics."
+    },
+    "question": "Which of the following statement is incorrect about RNA?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "3-4 %",
+      "B.": "10-20%",
+      "C.": "80%",
+      "D.": "90%"
+    },
+    "question": "rRNA constitutes _____ % of the total cellular RNA."
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "170",
+      "B.": "20",
+      "C.": "25",
+      "D.": "15"
+    },
+    "question": "There are mainly _______ types of tRNA"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Glycolipids",
+      "B.": "Glycoproteins",
+      "C.": "Nucleohistones",
+      "D.": "Proteins"
+    },
+    "question": "Most of the cellular secretions are _____ in nature."
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Glycolipids",
+      "B.": "Glycoproteins",
+      "C.": "Nucleohistones",
+      "D.": "None of these"
+    },
+    "question": "Which conjegated molecules play important role in gene expression?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Chemicals",
+      "B.": "Hydrocarbons",
+      "C.": "Organic molecules",
+      "D.": "Inorganic molecules"
+    },
+    "question": "The survival of an animal depends upon its ability to take some from its environment"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Coordinated catabolic activities",
+      "B.": "Coordinated anabolic activities",
+      "C.": "Both A and B",
+      "D.": "Any one"
+    },
+    "question": "Interconversion of carbohydrates proteins and lipids in living cells are an example of"
+  },
+  {
+    "answer": "D",
+    "options": {
+      "A.": "H",
+      "B.": "N & O",
+      "C.": "P & S",
+      "D.": "All of these"
+    },
+    "question": "Carbon commonly combines with"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Soluble",
+      "B.": "Insoluble",
+      "C.": "Partially soluble",
+      "D.": "Depends upon condition"
+    },
+    "question": "Non polar organic molecules are _______ in water."
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Carbohydrates",
+      "B.": "Fatty acid",
+      "C.": "Water",
+      "D.": "Protein"
+    },
+    "question": "In living organisms the lubricant which provides protection against damage resulting from friction is"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "1 to 3 thousand",
+      "B.": "3 to many thousand",
+      "C.": "3 to 5 thousand",
+      "D.": "5 to 9 thousand"
+    },
+    "question": "In Cx(H2O)y x ranges from"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "Extracellular",
+      "B.": "Intracellular",
+      "C.": "Both of these",
+      "D.": "Glucose"
+    },
+    "question": "Glycolipids and glycoproteins have structural role in the _____ matrix of animal and bacterial cell"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Glyceraldehydes",
+      "B.": "Dihydroxy acetone",
+      "C.": "Both of these",
+      "D.": "None of these"
+    },
+    "question": "The trioses which are intermediate in respiration and photosynthesis are"
+  },
+  {
+    "answer": "A",
+    "options": {
+      "A.": "CO",
+      "B.": "C-COO-C",
+      "C.": "HCOH",
+      "D.": "HOH"
+    },
+    "question": "Keto group is represented as"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Trioses",
+      "B.": "Hexoses",
+      "C.": "Tetroses",
+      "D.": "Pentoses"
+    },
+    "question": "The monosaccharide found in some bacteria and occurring rarely are"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "3",
+      "B.": "4",
+      "C.": "5",
+      "D.": "2"
+    },
+    "question": "How many carbon atoms are required to form a furan ring (ribofuranose)"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Organic acid",
+      "B.": "Alcohol",
+      "C.": "Water",
+      "D.": "Sugar"
+    },
+    "question": "In esterification OH comes from"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "Natural lipid",
+      "B.": "Neutral lipid",
+      "C.": "Neutral wax",
+      "D.": "All of these"
+    },
+    "question": "Triglyceride is also known as"
+  },
+  {
+    "answer": "B",
+    "options": {
+      "A.": "C-6",
+      "B.": "C-25",
+      "C.": "C-26",
+      "D.": "C-30"
+    },
+    "question": "Which one is not found in fatty acids in acylglycerols?"
+  },
+  {
+    "answer": "C",
+    "options": {
+      "A.": "Liquids",
+      "B.": "Gases",
+      "C.": "Solids",
+      "D.": "None of these"
+    },
+    "question": "Animals fats are ___________ atroom temperature"
+  }
+]
