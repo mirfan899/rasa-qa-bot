@@ -5,7 +5,7 @@
 
 ## qa_happy_1
 > greet_part
-* faq
+* qa
    - action_get_answer
    - utter_helpful
 * affirm{"accept": "yes"}
@@ -13,7 +13,7 @@
 
 ## qa_happy_3
 > greet_part
-* faq
+* qa
    - action_get_answer
    - utter_helpful
 * affirm{"accept": "yes"}
@@ -21,12 +21,12 @@
 
 ## qa_happy_4
 > greet_part
-* faq
+* qa
    - action_get_answer
    - utter_helpful
 * deny{"reject":"No"}
    - utter_not_helpful
-* faq
+* qa
    - action_get_answer
    - utter_helpful
 * affirm{"accept": "yes"}
@@ -34,12 +34,12 @@
 
 ## qa_not_happy_2
 > greet_part
-* faq
+* qa
    - action_get_answer
    - utter_helpful
 * deny{"reject":"No"}
    - utter_not_helpful
-* faq
+* qa
    - action_get_answer
    - utter_helpful
 * deny{"reject":"No"}
@@ -47,12 +47,12 @@
 
 ## qa_not_happy_2
 > greet_part
-* faq
+* qa
    - action_get_answer
    - utter_helpful
 * deny{"reject":"No"}
    - utter_not_helpful
-* faq
+* qa
    - action_get_answer
    - utter_helpful
 * deny{"reject":"No"}
@@ -60,12 +60,12 @@
 
 ## qa_not_happy_2
 > greet_part
-* faq
+* qa
    - action_get_answer
    - utter_helpful
 * deny{"reject":"No"}
    - utter_not_helpful
-* faq
+* qa
    - action_get_answer
    - utter_helpful
 * deny{"reject":"No"}
@@ -75,7 +75,7 @@
 
 * greet
     - utter_greet
-* faq
+* qa
     - action_get_answer
     - utter_helpful
 * affirm{"accept": "yes"}
@@ -85,7 +85,7 @@
 
 * greet
     - utter_greet
-* faq
+* qa
     - action_get_answer
     - utter_helpful
 * affirm

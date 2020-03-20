@@ -2,7 +2,7 @@
 import json
 from typing import Any, Text, Dict, List
 
-from bert_serving.client import BertClient
+import requests
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 import numpy as np
@@ -20,11 +20,14 @@ class ActionGetFAQAnswer(Action):
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        query = tracker.latest_message['text']
-
-        most_similar_id, score = 100, 90
-        if float(score) >= 0.90:
+        question = tracker.latest_message['text']
+        response = requests.post("http://127.0.0.1:5000/api/score", json={"question": question})
+        score = float(response.json()["score"])
+        most_similar_id = int(response.json()["index"])
+        # most_similar_id, score = 100, 90
+        if score >= 0.90:
             response = self.faq_data[most_similar_id]['a']
+
             dispatcher.utter_message(response)
             # dispatcher.utter_message(template="utter_helpful")
         else:
