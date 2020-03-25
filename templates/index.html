@@ -1,0 +1,51 @@
+<body>
+<head>
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="text/javascript"></script>-->
+
+<!--    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"-->
+<!--            type="text/javascript"></script>-->
+<!--    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"-->
+<!--          type="text/css">-->
+</head>
+
+<div id="webchat">
+<script src="https://storage.googleapis.com/mrbot-cdn/webchat-latest.js" type="text/javascript"></script>
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+    initPayload: "/get_started",
+    customData: {"userId": "123"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+    socketUrl: "http://127.0.0.1:5005",
+    socketPath: "/socket.io/",
+    title: "Chatbot",
+    subtitle: "",
+    inputTextFieldHint: "Type a message...",
+    connectingText: "Waiting for server...",
+    hideWhenNotConnected: false,
+    fullScreenMode: false,
+    showFullScreenButton: false,
+    profileAvatar: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAFWUlEQVRYhe2YW0wUVxzGvzMzO7PLXkBuLgtr1CIUFG+4SNXQyypIE6tgtSZKStO00fTFxkSMicGkJhXTpqaJibEP2lobLW3VmmBRamJLuYiFWgULWlvFpVtBkOvuzs7M6YPZirC7Hd0h0aTf02bOd/7nl3POfOfMAk+4iFaF8nddsJuMpNInKXN5jmn2ivLa02W5tyOty2gBBwAmI6l0ZlkdH5bOF5xZ1hyDwB7Toq5mgF5JmeucY2UEHQvnbCvrFZVsLepqBqjXkeaaS27Z55dR86tb1uuYi1rU5bQoAgAen7L23BX3sdMtroUCxzZ4RHmdVrU1VcHueqplPc2WeKL0P2CkUh3Uy95vyBc4sp5liNMvKQkypbzaviwhIs8zd2SZfu+T6ZEzZblnNQNcXlGbrmN1h00GLs05K8mUMSWajTMLEDj1k++TFNwd9OHqrX753BX34KBX6pB9tKRq+8KOiAAL99Q9zxH2ZPGiKYbnMyfzRIODUaEU51vv+I833BrxSdIrZ7Yt/uGxAJdX1KbrGF3jOy8/a0lPNmt2ZgfU7hqg+6raB7yUOs5uzb0WyhdynXSs7nDxoilREwEHAOnJFrIq127Qs+SzcL6ggPkVDctMBi4tLzNRNxFwAb0wazJvFNiM5RV1zlCeoIA8Q0qWZiWZGC02XRgxhMCZZTMJHLMhpCfYQ5YhL2WkRLMTh/ZAmXYLSwizNFR7UEBJofGxZtUxF5HizAL8Mk0I1c6t2dnKe0zDexRKS2VZiQYASVYg6B6eQFFSUN3ShabrPegZEKFQ9XcChhDEW3g4UuNRMM8GflSGCjoWkqwIgUsGx7L3wOBQ1KCxrHLnTJHzmocrYizGt7Izp0cZhPuzdrzmwji4vaeuItHCY8eqNExLiALHqt+fkkzxR/cIvvjJhb2nrmLzioyHIAGgaGkOAMDjE2OaW2+83YthAHiXkWX6xmi4YKpu6UKihcfO4jTMsBofCQ4AOJZghtWI8tVpSDDrUN3SFdJrEHjMz5weBQWlAMDIihIdDg4Amq73YMPiZADApz92ouijJhyuVfc9NNa/YXEKmq7fDdvHoOchyXIMoPI20zskInmSHgBw4qIbHlHG8Yt/qQIc60+J1aNvSFTVVzVgrImHq88LACh2JMHAsyhekKRqgLH+zl4vJpnUJwTHsew9j0+MCbfMjtR4HKl1oXx1GkqWpKBkSYrqAcb6j9TehiM1Lmwfj1e8/zYDYBgGh5pbb4x4vKGnvWCeDX8Piij/uh0d7mFI8qN9dkgyRYd7GOVftaN7yI+CebawcD+33RgBoQcBgNMPGst6MYya+sulgY05VjzHYPOKDFS3dGHXiWvoGfA9Rg4KcKTGYf2LtnERAzyINoYwHoYjB6KGTNuAENetgt31dP/GhaoBItXG/Y2o3vYcCYwd+A08Bd8kTzzgY/2z0DckorLuJto6++H1y2G9Zj2HWXYLVuTYEWvWTzxg35CI3d9cQZEjCVsKpyLOxOP07xSFzzy8nQPPBjwSzl7uxgcn27C1aCZijELI2oUfVwnKCHwRAVbW3cSqBUlYlxs6KkbLYuCwOicJHEvQ+Fs3CrLHZ2hi9P2ZlT2xeQT0UkSAbZ392FI4Nazn4PlOVF7owj4CvJpjQ2meHSuzrVAocGtgfDyVr50N972GfELpJ0QhmyIC9PplxP3HUfVtsxuKQqEAOFrvwtF6V1g/yxIwhL5HFLLpu+25VREBqtHKbCu+bOwCQ4A1OTa8nmf/t+3P/uABPy2GCRq8EwJYmmfH5OSUcS/Omwd+wY7X5ozzb/+8xROqVsiTJFLIR9Xo0+Op0j+yF+67nraGFAAAAABJRU5ErkJggg==",
+    openLauncherImage: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAFWUlEQVRYhe2YW0wUVxzGvzMzO7PLXkBuLgtr1CIUFG+4SNXQyypIE6tgtSZKStO00fTFxkSMicGkJhXTpqaJibEP2lobLW3VmmBRamJLuYiFWgULWlvFpVtBkOvuzs7M6YPZirC7Hd0h0aTf02bOd/7nl3POfOfMAk+4iFaF8nddsJuMpNInKXN5jmn2ivLa02W5tyOty2gBBwAmI6l0ZlkdH5bOF5xZ1hyDwB7Toq5mgF5JmeucY2UEHQvnbCvrFZVsLepqBqjXkeaaS27Z55dR86tb1uuYi1rU5bQoAgAen7L23BX3sdMtroUCxzZ4RHmdVrU1VcHueqplPc2WeKL0P2CkUh3Uy95vyBc4sp5liNMvKQkypbzaviwhIs8zd2SZfu+T6ZEzZblnNQNcXlGbrmN1h00GLs05K8mUMSWajTMLEDj1k++TFNwd9OHqrX753BX34KBX6pB9tKRq+8KOiAAL99Q9zxH2ZPGiKYbnMyfzRIODUaEU51vv+I833BrxSdIrZ7Yt/uGxAJdX1KbrGF3jOy8/a0lPNmt2ZgfU7hqg+6raB7yUOs5uzb0WyhdynXSs7nDxoilREwEHAOnJFrIq127Qs+SzcL6ggPkVDctMBi4tLzNRNxFwAb0wazJvFNiM5RV1zlCeoIA8Q0qWZiWZGC02XRgxhMCZZTMJHLMhpCfYQ5YhL2WkRLMTh/ZAmXYLSwizNFR7UEBJofGxZtUxF5HizAL8Mk0I1c6t2dnKe0zDexRKS2VZiQYASVYg6B6eQFFSUN3ShabrPegZEKFQ9XcChhDEW3g4UuNRMM8GflSGCjoWkqwIgUsGx7L3wOBQ1KCxrHLnTJHzmocrYizGt7Izp0cZhPuzdrzmwji4vaeuItHCY8eqNExLiALHqt+fkkzxR/cIvvjJhb2nrmLzioyHIAGgaGkOAMDjE2OaW2+83YthAHiXkWX6xmi4YKpu6UKihcfO4jTMsBofCQ4AOJZghtWI8tVpSDDrUN3SFdJrEHjMz5weBQWlAMDIihIdDg4Amq73YMPiZADApz92ouijJhyuVfc9NNa/YXEKmq7fDdvHoOchyXIMoPI20zskInmSHgBw4qIbHlHG8Yt/qQIc60+J1aNvSFTVVzVgrImHq88LACh2JMHAsyhekKRqgLH+zl4vJpnUJwTHsew9j0+MCbfMjtR4HKl1oXx1GkqWpKBkSYrqAcb6j9TehiM1Lmwfj1e8/zYDYBgGh5pbb4x4vKGnvWCeDX8Piij/uh0d7mFI8qN9dkgyRYd7GOVftaN7yI+CebawcD+33RgBoQcBgNMPGst6MYya+sulgY05VjzHYPOKDFS3dGHXiWvoGfA9Rg4KcKTGYf2LtnERAzyINoYwHoYjB6KGTNuAENetgt31dP/GhaoBItXG/Y2o3vYcCYwd+A08Bd8kTzzgY/2z0DckorLuJto6++H1y2G9Zj2HWXYLVuTYEWvWTzxg35CI3d9cQZEjCVsKpyLOxOP07xSFzzy8nQPPBjwSzl7uxgcn27C1aCZijELI2oUfVwnKCHwRAVbW3cSqBUlYlxs6KkbLYuCwOicJHEvQ+Fs3CrLHZ2hi9P2ZlT2xeQT0UkSAbZ392FI4Nazn4PlOVF7owj4CvJpjQ2meHSuzrVAocGtgfDyVr50N972GfELpJ0QhmyIC9PplxP3HUfVtsxuKQqEAOFrvwtF6V1g/yxIwhL5HFLLpu+25VREBqtHKbCu+bOwCQ4A1OTa8nmf/t+3P/uABPy2GCRq8EwJYmmfH5OSUcS/Omwd+wY7X5ozzb/+8xROqVsiTJFLIR9Xo0+Op0j+yF+67nraGFAAAAABJRU5ErkJggg==",
+    closeLauncherImage: 'myCustomCloseImage.png',
+    displayUnreadCount: true, // --> [view](./assets/unread_count_pastille.png)
+    showMessageDate: false,
+    tooltipPayload: '/get_tooltip',
+    tooltipDelay: 1000,
+    customMessageDelay: (message) => {
+      if (message.length > 100) return 2000;
+      return 1000;
+    },
+    params: {
+      images: {
+        dims: {
+          width: 300,
+          height: 200,
+        }
+      },
+      storage: "local"
+    },
+  })
+</script>
+</div>
+
+</body>
