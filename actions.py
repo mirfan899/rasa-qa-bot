@@ -25,7 +25,7 @@ class ActionGetFAQAnswer(Action):
         score = float(response.json()["score"])
         most_similar_id = int(response.json()["index"])
         # most_similar_id, score = 100, 90
-        if score >= 0.90:
+        if score >= 0.70:
             response = self.faq_data[most_similar_id]['a']
 
             dispatcher.utter_message(response)
