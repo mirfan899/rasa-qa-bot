@@ -5,7 +5,7 @@ import json
 
 def encode_standard_question():
     bc = BertClient()
-    data = json.load(open("./data/nlu/knowledge_base.json", "r", encoding="utf-8"))
+    data = json.load(open("./data/nlu/qa.json", "r", encoding="utf-8"))
     standard_questions = [each['question'] for each in data]
     print("Standard question size", len(standard_questions))
     print("Start to calculate encoder....")
