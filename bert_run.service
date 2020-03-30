@@ -1,0 +1,14 @@
+[Unit]
+Description=BERT Run Service
+After=network.target
+
+
+[Service]
+User=virtuoso_irfan
+WorkingDirectory=/home/virtuoso_irfan/rasa-qa-bot/
+ExecStart=/home/virtuoso_irfan/rasa-qa-bot/start_bert_service.sh
+ExecStop=/home/virtuoso_irfan/rasa-qa-bot/stop_bert_service.sh
+
+
+[Install]
+WantedBy=multi-user.target
