@@ -13,7 +13,7 @@
 - hi
 - hello
 
-## intent:faq
+## intent:qa
 - The simplest of oxygen producting photosynthetic organisms are
 - Protein coasts of viruses are synthesized in
 - Mycoplasmas have been included in bacteria because
