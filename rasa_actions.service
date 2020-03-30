@@ -5,7 +5,7 @@ After=network.target
 [Service]
 User=virtuoso_irfan
 WorkingDirectory=/home/virtuoso_irfan/rasa-qa-bot/
-ExecStart=/home/virtuoso_irfan/rasa-qa-bot/rasa_run.sh
+ExecStart=/home/virtuoso_irfan/rasa-qa-bot/rasa_actions.sh
 
 
 [Install]
