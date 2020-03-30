@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 ## setup bert virtualenv
 virtualenv -p python3.6 .bert
 source .bert/bin/activate
@@ -23,10 +23,14 @@ pip3 install rasa-x==0.26.1 --extra-index-url https://pypi.rasa.com/simple
 pip3 install tensorflow-addons
 pip3 install flask
 pip3 install flask-cors
+pip3 install spacy
+python -m spacy download en_core_web_sm
+python -m spacy link en_core_web_sm en
 
 
 ## get the bert model and save it in bert directory
-cd bert
+mkdir bert
+cd ./bert || { echo "Failure"; exit 1; }
 wget https://storage.googleapis.com/bert_models/2019_05_30/wwm_uncased_L-24_H-1024_A-16.zip
 unzip wwm_uncased_L-24_H-1024_A-16.zip
 cd ..
