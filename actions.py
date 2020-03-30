@@ -39,9 +39,10 @@ class ActionGetFAQAnswer(Action):
         # most_similar_id = int(response.json()["index"])
         # most_similar_id, score = 100, 90
         if score >= 0.70:
-            response = self.faq_data[most_similar_id]['a']
+            response = str(self.faq_data[most_similar_id]['a']) + "."
+            answer = self.faq_data[most_similar_id]["options"][response]
 
-            dispatcher.utter_message(response)
+            dispatcher.utter_message(answer)
             # dispatcher.utter_message(template="utter_helpful")
         else:
             dispatcher.utter_message(template="utter_not_helpful")
