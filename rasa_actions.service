@@ -1,0 +1,12 @@
+[Unit]
+Description=Rasa Run Service
+After=network.target
+
+[Service]
+User=virtuoso_irfan
+WorkingDirectory=/home/virtuoso_irfan/rasa-qa-bot/
+ExecStart=/home/virtuoso_irfan/rasa-qa-bot/rasa_run.sh
+
+
+[Install]
+WantedBy=multi-user.target

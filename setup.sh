@@ -38,5 +38,6 @@ cd ..
 
 sudo cp rasa_run.service /etc/systemd/system/rasa.service
 sudo cp bert_run.service /etc/systemd/system/bert.service
+sudo cp rasa_actions.service /etc/systemd/system/actions.service
 
 echo "Setup completed."
