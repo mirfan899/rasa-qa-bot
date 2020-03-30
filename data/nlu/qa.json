@@ -1,3731 +1,3731 @@
 [
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Algae",
       "B.": "Bacteria",
       "C.": "Cyanobacteria",
       "D.": "Chlamydomonas"
     },
-    "question": "The simplest of oxygen producting photosynthetic organisms are",
+    "q": "The simplest of oxygen producting photosynthetic organisms are",
     "index": 0
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Lytic cycle",
       "B.": "Lysogenic cycle",
       "C.": "Both a & b",
       "D.": "All of these"
     },
-    "question": "Protein coasts of viruses are synthesized in",
+    "q": "Protein coasts of viruses are synthesized in",
     "index": 1
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Do not have a cell wall",
       "B.": "Are heterotrophic",
       "C.": "Lack membrane bounded organelles",
       "D.": "Reproduce by binary fission"
     },
-    "question": "Mycoplasmas have been included in bacteria because",
+    "q": "Mycoplasmas have been included in bacteria because",
     "index": 2
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Asci",
       "B.": "Basidia",
       "C.": "Both a & b",
       "D.": "Buds"
     },
-    "question": "Yeasts reproduce asexually by forming",
+    "q": "Yeasts reproduce asexually by forming",
     "index": 3
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Algae",
       "B.": "Amoeba",
       "C.": "Fungi",
       "D.": "Bacteria"
     },
-    "question": "The one which can tolerate highest external osmotic pressure",
+    "q": "The one which can tolerate highest external osmotic pressure",
     "index": 4
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Amoebas",
       "B.": "Zooflagellates",
       "C.": "Ciliates",
       "D.": "Apicomplexans"
     },
-    "question": "Locomotory structures are not found in which of the following group",
+    "q": "Locomotory structures are not found in which of the following group",
     "index": 5
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Chitin",
       "B.": "Cellulose",
       "C.": "Lignin",
       "D.": "Proteins"
     },
-    "question": "The cell wall of oomycetes is chiefly composed of",
+    "q": "The cell wall of oomycetes is chiefly composed of",
     "index": 6
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Monera",
       "B.": "Algae",
       "C.": "Slime molds",
       "D.": "Plants"
     },
-    "question": "One celled green ptotists are included in",
+    "q": "One celled green ptotists are included in",
     "index": 7
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Psilophyton",
       "B.": "Rhynia",
       "C.": "Cooksonia",
       "D.": "Psilotum"
     },
-    "question": "Pick the odd one out",
+    "q": "Pick the odd one out",
     "index": 8
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Sori - Indusium",
       "B.": "Arthrophytes - Jointed",
       "C.": "Dichotomous - Vernation",
       "D.": "Lycopods - Ground pries"
     },
-    "question": "The one which is incorrect pair",
+    "q": "The one which is incorrect pair",
     "index": 9
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "All plants",
       "B.": "All seed plants",
       "C.": "Gymnosperms",
       "D.": "Angiosperms"
     },
-    "question": "Double fertilization occurs in",
+    "q": "Double fertilization occurs in",
     "index": 10
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Chordate",
       "B.": "Protochordate",
       "C.": "Lower chordate",
       "D.": "All of these"
     },
-    "question": "Amphoixus is a",
+    "q": "Amphoixus is a",
     "index": 11
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Ureter",
       "B.": "Ovary",
       "C.": "Lung",
       "D.": "Testis"
     },
-    "question": "Adult birds normally possess only one functional",
+    "q": "Adult birds normally possess only one functional",
     "index": 12
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Chordata",
       "B.": "Hydra",
       "C.": "Echinodermata",
       "D.": "Hemichordata"
     },
-    "question": "Following possess bilateral symmetry as larva and radial symmetry as adult:",
+    "q": "Following possess bilateral symmetry as larva and radial symmetry as adult:",
     "index": 13
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Sponges",
       "B.": "Annelida",
       "C.": "Platyhelminthes",
       "D.": "Aves"
     },
-    "question": "Which of the following are triploblastic and acoelomate?",
+    "q": "Which of the following are triploblastic and acoelomate?",
     "index": 14
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Release of CO2",
       "B.": "Reduction of NAD",
       "C.": "Formation of ATP",
       "D.": "Production of ethanol from acetaldehyde"
     },
-    "question": "Which of the following occurs in anaerobic respiration but not in aerobic respiration?",
+    "q": "Which of the following occurs in anaerobic respiration but not in aerobic respiration?",
     "index": 15
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "C55H70O5N4Mg",
       "B.": "C55H72O6N4Mg",
       "C.": "C55H70O6N4Mg",
       "D.": "C55H72O5N4Mg"
     },
-    "question": "Which of the following is the empirical formula of chlorophyll b?",
+    "q": "Which of the following is the empirical formula of chlorophyll b?",
     "index": 16
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "1",
       "B.": "2",
       "C.": "3",
       "D.": "6"
     },
-    "question": "How many moles of carbon dioxide are produced by complete oxidation of one mole of puruvic acid?",
+    "q": "How many moles of carbon dioxide are produced by complete oxidation of one mole of puruvic acid?",
     "index": 17
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Humus",
       "B.": "Detritus",
       "C.": "Dead microscopic animals",
       "D.": "Small crustaceans"
     },
-    "question": "The food of hydra consists of",
+    "q": "The food of hydra consists of",
     "index": 18
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "2-4 hours",
       "B.": "6-8 hours",
       "C.": "10-12 hours",
       "D.": "12-24 hours"
     },
-    "question": "Hunger pangs usually begin ______ after the previous meal.",
+    "q": "Hunger pangs usually begin ______ after the previous meal.",
     "index": 19
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Burst",
       "B.": "Be Killed",
       "C.": "Be deplasmolysed",
       "D.": "Show no change in it"
     },
-    "question": "If a plasmolysed plant cell is placed in water the cell will",
+    "q": "If a plasmolysed plant cell is placed in water the cell will",
     "index": 20
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Protein",
       "B.": "NaCl",
       "C.": "Water",
       "D.": "Cholesterol"
     },
-    "question": "The major constituent of blood plasma is",
+    "q": "The major constituent of blood plasma is",
     "index": 21
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Superior vena cava",
       "B.": "Inferior vena cava",
       "C.": "Hepatic vein",
       "D.": "Pulmonary vein"
     },
-    "question": "All of the following veins carry deoxygenated blood except",
+    "q": "All of the following veins carry deoxygenated blood except",
     "index": 22
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Dorsal to oesophagus",
       "B.": "Ventral to oesophagus",
       "C.": "Lateral to oesophagus",
       "D.": "None of these"
     },
-    "question": "The windpipe or trachea lies",
+    "q": "The windpipe or trachea lies",
     "index": 23
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Vitamin B and C",
       "B.": "Vitamin B and D",
       "C.": "Vitamin C and B",
       "D.": "Vitamin A and B"
     },
-    "question": "Scurvy and beri - beri and caused by the deficiency of",
+    "q": "Scurvy and beri - beri and caused by the deficiency of",
     "index": 24
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Tropical rain forest",
       "B.": "Tundra",
       "C.": "Grass land",
       "D.": "Desert"
     },
-    "question": "Kangaroo rat most probably would be found in",
+    "q": "Kangaroo rat most probably would be found in",
     "index": 25
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Limmnetic zone",
       "B.": "Littoral zone",
       "C.": "Profundal zone",
       "D.": "None of these"
     },
-    "question": "The greatest diversity of animals in the lake is found in which one of the following zones?",
+    "q": "The greatest diversity of animals in the lake is found in which one of the following zones?",
     "index": 26
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Autotroph",
       "B.": "Heterotroph",
       "C.": "Parasite",
       "D.": "Saprophyte"
     },
-    "question": "What is the characteristic feature of consumers?",
+    "q": "What is the characteristic feature of consumers?",
     "index": 27
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "25%",
       "B.": "10%",
       "C.": "5%",
       "D.": "1%"
     },
-    "question": "What percentage of light reaching the earth is used in photosynthesis?",
+    "q": "What percentage of light reaching the earth is used in photosynthesis?",
     "index": 28
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Nitrobacter",
       "B.": "Nitrosomonas",
       "C.": "Rhizohium",
       "D.": "All of these"
     },
-    "question": "All of the following are involved in nitrification except",
+    "q": "All of the following are involved in nitrification except",
     "index": 29
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Ecosystem",
       "B.": "Community",
       "C.": "Habitat",
       "D.": "Niche"
     },
-    "question": "Competition between species will be greatest if they attempt to occupy the same",
+    "q": "Competition between species will be greatest if they attempt to occupy the same",
     "index": 30
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Secondary consumers",
       "B.": "Herbivores",
       "C.": "Carnivores",
       "D.": "Decomposers"
     },
-    "question": "In most ecosystems the greatest amount of energy flows through the",
+    "q": "In most ecosystems the greatest amount of energy flows through the",
     "index": 31
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Rhizobium and leguminous plants",
       "B.": "Marchantia sporophyte and gametophyte",
       "C.": "Algae and fungi in a lichen",
       "D.": "Mycorrhizal fungi and tree roots"
     },
-    "question": "Which of the following relationship is NOT an example of symbiosis?",
+    "q": "Which of the following relationship is NOT an example of symbiosis?",
     "index": 32
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Phylum",
       "B.": "Family",
       "C.": "Genus",
       "D.": "Order"
     },
-    "question": "Animals with greatest number of similarities are grouped together in a/an",
+    "q": "Animals with greatest number of similarities are grouped together in a/an",
     "index": 33
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Cytohrome c",
       "B.": "Cytochrome a",
       "C.": "Cytochrome a3",
       "D.": "Cytochrome b"
     },
-    "question": "The one which is present in all aerobic species",
+    "q": "The one which is present in all aerobic species",
     "index": 34
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Gills",
       "B.": "Eustachian tube",
       "C.": "Middle ear",
       "D.": "Lungs"
     },
-    "question": "The structure which has been formed or modified from gill pouches in humans is",
+    "q": "The structure which has been formed or modified from gill pouches in humans is",
     "index": 35
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "1.5 billion",
       "B.": "2.5 billion",
       "C.": "3.5 billion",
       "D.": "4.5 billion"
     },
-    "question": "The first eukarotes appeared about ______ years ago",
+    "q": "The first eukarotes appeared about ______ years ago",
     "index": 36
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Natural selection",
       "B.": "The theory of recapitulation",
       "C.": "Inheritance of acquired characters",
       "D.": "Over production"
     },
-    "question": "According to Lamarch evolution occurred as the result of",
+    "q": "According to Lamarch evolution occurred as the result of",
     "index": 37
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Hyperchloesterolemia",
       "B.": "Cystic fibrosis",
       "C.": "Severe combined immunodeficiency syndrome",
       "D.": "AIDS"
     },
-    "question": "The discease in which transmembrane carrier for the chloride ion is not produced is",
+    "q": "The discease in which transmembrane carrier for the chloride ion is not produced is",
     "index": 38
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Ligase enzyme",
       "B.": "Primase enzyme",
       "C.": "Restriction endonuclease",
       "D.": "ATP-ase enzyme"
     },
-    "question": "The one which can break open a plasmid ring is",
+    "q": "The one which can break open a plasmid ring is",
     "index": 39
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Appearance of an individual",
       "B.": "Genetic basis of few characters",
       "C.": "Full set of genes of an individual",
       "D.": "All of these"
     },
-    "question": "A genome is",
+    "q": "A genome is",
     "index": 40
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Muscle cell of worm",
       "B.": "Uterine cells of dog",
       "C.": "Sperm cells of frog",
       "D.": "Guard cells of leaf"
     },
-    "question": "Genes will not be found in gene pairs in the",
+    "q": "Genes will not be found in gene pairs in the",
     "index": 41
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Color blind sons and daughter with normal vision",
       "B.": "Sons with normal vision and color blind daughters",
       "C.": "Color blind sons colour blind daughters and daughters with normal vision",
       "D.": "Sons with normal vision colour blind daughter and daughters with normal vision"
     },
-    "question": "The red green colour blindness is sex linked recessive condition in man. A father with normal vision and a color blind mother world expect to produce.",
+    "q": "The red green colour blindness is sex linked recessive condition in man. A father with normal vision and a color blind mother world expect to produce.",
     "index": 42
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "G1 phase",
       "B.": "S phase",
       "C.": "G2 phase",
       "D.": "M phase"
     },
-    "question": "Which one of the following stage preceeds mitosis during cell cycle?",
+    "q": "Which one of the following stage preceeds mitosis during cell cycle?",
     "index": 43
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Klinefelters syndrome",
       "B.": "Turners syndrome",
       "C.": "Downs syndrome",
       "D.": "All of these"
     },
-    "question": "Which one of the following syndrome is the result of meiotic non dysjunction?",
+    "q": "Which one of the following syndrome is the result of meiotic non dysjunction?",
     "index": 44
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Diakinesis diplotene pachytene leptotene zygotene",
       "B.": "Zygotene leptotene pachytene diplotene diakinesis",
       "C.": "Leptotene zygotene pachytene diplotene diakinesis",
       "D.": "Pachytene leptotene diplotene zygotene diakinesis"
     },
-    "question": "Which one of the following is correct sequence of stages of prophase 1 of meiosis",
+    "q": "Which one of the following is correct sequence of stages of prophase 1 of meiosis",
     "index": 45
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "23",
       "B.": "46",
       "C.": "0",
       "D.": "4"
     },
-    "question": "In humans the number of tetrads formed during mitosis is",
+    "q": "In humans the number of tetrads formed during mitosis is",
     "index": 46
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Gene",
       "B.": "Anticodon",
       "C.": "Code",
       "D.": "Codon"
     },
-    "question": "The sequence of 3 bases on tRNA which is complementary to condon of mRNA is called",
+    "q": "The sequence of 3 bases on tRNA which is complementary to condon of mRNA is called",
     "index": 47
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "It produces another DNA molecule",
       "B.": "It produces mRNA",
       "C.": "It is a semi conservation process",
       "D.": "It occurs at surface of ribosomes"
     },
-    "question": "Which statement correctly describes the transcription of DNA?",
+    "q": "Which statement correctly describes the transcription of DNA?",
     "index": 48
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "The centromere",
       "B.": "Nuceleosome",
       "C.": "Telomere",
       "D.": "Histone"
     },
-    "question": "The basic structural unit of a chromosome is",
+    "q": "The basic structural unit of a chromosome is",
     "index": 49
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Neurula",
       "B.": "Morula",
       "C.": "Gastrula",
       "D.": "Balastula"
     },
-    "question": "The first stage of development in which a cavity appears is the",
+    "q": "The first stage of development in which a cavity appears is the",
     "index": 50
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Photoperiodism",
       "B.": "Thermotropism",
       "C.": "Vernalisation",
       "D.": "Thermoregulation"
     },
-    "question": "Exposure to low temperature stimulates plants to flower. This is called",
+    "q": "Exposure to low temperature stimulates plants to flower. This is called",
     "index": 51
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Sertoli cells",
       "B.": "Germinal cell",
       "C.": "Interstitial cells",
       "D.": "Spermatocyte"
     },
-    "question": "The cells present in testes and secrete testosterone are",
+    "q": "The cells present in testes and secrete testosterone are",
     "index": 52
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Imprinting",
       "B.": "Habituation",
       "C.": "Latent learning",
       "D.": "Insight learning"
     },
-    "question": "The type of learning in which there is loss or decrease in response to repeated stimuli",
+    "q": "The type of learning in which there is loss or decrease in response to repeated stimuli",
     "index": 53
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "ADH",
       "B.": "MSH",
       "C.": "Oxytocin",
       "D.": "Progesterone"
     },
-    "question": "The one which causes contraction of wall of the uterus during and after birth",
+    "q": "The one which causes contraction of wall of the uterus during and after birth",
     "index": 54
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "IAA",
       "B.": "NAA",
       "C.": "2 4-D",
       "D.": "GA"
     },
-    "question": "The one which is a weed killer",
+    "q": "The one which is a weed killer",
     "index": 55
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Turgor movements",
       "B.": "Growth movements",
       "C.": "Tactic movements",
       "D.": "Paratonic movments"
     },
-    "question": "Sleep movements are a type of",
+    "q": "Sleep movements are a type of",
     "index": 56
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Sarcolemma",
       "B.": "Sarcoplasm",
       "C.": "Sarcoplasmic reticulum",
       "D.": "Cytosol"
     },
-    "question": "The one that stores calcium",
+    "q": "The one that stores calcium",
     "index": 57
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Activation of sweat glands",
       "B.": "Dilation of skin blood vessels",
       "C.": "Panting",
       "D.": "Thermogenesis"
     },
-    "question": "Which one of the following is most likely to occur in an animal during winter?",
+    "q": "Which one of the following is most likely to occur in an animal during winter?",
     "index": 58
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Protection against micro organisms",
       "B.": "Temperature regulation",
       "C.": "Excretion",
       "D.": "All of these"
     },
-    "question": "Sebum produced from sebaceous glands in a mammal helps in",
+    "q": "Sebum produced from sebaceous glands in a mammal helps in",
     "index": 59
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Appearance of an individual",
       "B.": "Genetic basis of few characters",
       "C.": "Full set of genes of an individual",
       "D.": "All of these"
     },
-    "question": "A genome is",
+    "q": "A genome is",
     "index": 60
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Muscle cell of worm",
       "B.": "Uterine cells of dog",
       "C.": "Sperm cells of frog",
       "D.": "Guard cells of leaf"
     },
-    "question": "Genes will not be found in gene pairs in the",
+    "q": "Genes will not be found in gene pairs in the",
     "index": 61
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Color blind sons and daughter with normal vision",
       "B.": "Sons with normal vision and color blind daughters",
       "C.": "Color blind sons colour blind daughters and daughters with normal vision",
       "D.": "Sons with normal vision colour blind daughter and daughters with normal vision"
     },
-    "question": "The red green colour blindness is sex linked recessive condition in man. A father with normal vision and a color blind mother world expect to produce.",
+    "q": "The red green colour blindness is sex linked recessive condition in man. A father with normal vision and a color blind mother world expect to produce.",
     "index": 62
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "G1 phase",
       "B.": "S phase",
       "C.": "G2 phase",
       "D.": "M phase"
     },
-    "question": "Which one of the following stage preceeds mitosis during cell cycle?",
+    "q": "Which one of the following stage preceeds mitosis during cell cycle?",
     "index": 63
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Klinefelters syndrome",
       "B.": "Turners syndrome",
       "C.": "Downs syndrome",
       "D.": "All of these"
     },
-    "question": "Which one of the following syndrome is the result of meiotic non dysjunction?",
+    "q": "Which one of the following syndrome is the result of meiotic non dysjunction?",
     "index": 64
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Diakinesis diplotene pachytene leptotene zygotene",
       "B.": "Zygotene leptotene pachytene diplotene diakinesis",
       "C.": "Leptotene zygotene pachytene diplotene diakinesis",
       "D.": "Pachytene leptotene diplotene zygotene diakinesis"
     },
-    "question": "Which one of the following is correct sequence of stages of prophase 1 of meiosis",
+    "q": "Which one of the following is correct sequence of stages of prophase 1 of meiosis",
     "index": 65
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "23",
       "B.": "46",
       "C.": "0",
       "D.": "4"
     },
-    "question": "In humans the number of tetrads formed during mitosis is",
+    "q": "In humans the number of tetrads formed during mitosis is",
     "index": 66
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Gene",
       "B.": "Anticodon",
       "C.": "Code",
       "D.": "Codon"
     },
-    "question": "The sequence of 3 bases on tRNA which is complementary to condon of mRNA is called",
+    "q": "The sequence of 3 bases on tRNA which is complementary to condon of mRNA is called",
     "index": 67
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "It produces another DNA molecule",
       "B.": "It produces mRNA",
       "C.": "It is a semi conservation process",
       "D.": "It occurs at surface of ribosomes"
     },
-    "question": "Which statement correctly describes the transcription of DNA?",
+    "q": "Which statement correctly describes the transcription of DNA?",
     "index": 68
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "The centromere",
       "B.": "Nuceleosome",
       "C.": "Telomere",
       "D.": "Histone"
     },
-    "question": "The basic structural unit of a chromosome is",
+    "q": "The basic structural unit of a chromosome is",
     "index": 69
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Neurula",
       "B.": "Morula",
       "C.": "Gastrula",
       "D.": "Balastula"
     },
-    "question": "The first stage of development in which a cavity appears is the",
+    "q": "The first stage of development in which a cavity appears is the",
     "index": 70
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Photoperiodism",
       "B.": "Thermotropism",
       "C.": "Vernalisation",
       "D.": "Thermoregulation"
     },
-    "question": "Exposure to low temperature stimulates plants to flower. This is called",
+    "q": "Exposure to low temperature stimulates plants to flower. This is called",
     "index": 71
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Sertoli cells",
       "B.": "Germinal cell",
       "C.": "Interstitial cells",
       "D.": "Spermatocyte"
     },
-    "question": "The cells present in testes and secrete testosterone are",
+    "q": "The cells present in testes and secrete testosterone are",
     "index": 72
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Imprinting",
       "B.": "Habituation",
       "C.": "Latent learning",
       "D.": "Insight learning"
     },
-    "question": "The type of learning in which there is loss or decrease in response to repeated stimuli",
+    "q": "The type of learning in which there is loss or decrease in response to repeated stimuli",
     "index": 73
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "ADH",
       "B.": "MSH",
       "C.": "Oxytocin",
       "D.": "Progesterone"
     },
-    "question": "The one which causes contraction of wall of the uterus during and after birth",
+    "q": "The one which causes contraction of wall of the uterus during and after birth",
     "index": 74
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "IAA",
       "B.": "NAA",
       "C.": "2 4-D",
       "D.": "GA"
     },
-    "question": "The one which is a weed killer",
+    "q": "The one which is a weed killer",
     "index": 75
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Turgor movements",
       "B.": "Growth movements",
       "C.": "Tactic movements",
       "D.": "Paratonic movments"
     },
-    "question": "Sleep movements are a type of",
+    "q": "Sleep movements are a type of",
     "index": 76
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Sarcolemma",
       "B.": "Sarcoplasm",
       "C.": "Sarcoplasmic reticulum",
       "D.": "Cytosol"
     },
-    "question": "The one that stores calcium",
+    "q": "The one that stores calcium",
     "index": 77
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Activation of sweat glands",
       "B.": "Dilation of skin blood vessels",
       "C.": "Panting",
       "D.": "Thermogenesis"
     },
-    "question": "Which one of the following is most likely to occur in an animal during winter?",
+    "q": "Which one of the following is most likely to occur in an animal during winter?",
     "index": 78
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Protection against micro organisms",
       "B.": "Temperature regulation",
       "C.": "Excretion",
       "D.": "All of these"
     },
-    "question": "Sebum produced from sebaceous glands in a mammal helps in",
+    "q": "Sebum produced from sebaceous glands in a mammal helps in",
     "index": 79
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "AMP",
       "B.": "ADP",
       "C.": "ATP",
       "D.": "All of these"
     },
-    "question": "Which of the following is a chemical link between catabolism and anabolism?",
+    "q": "Which of the following is a chemical link between catabolism and anabolism?",
     "index": 80
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Organic",
       "B.": "Energy rich",
       "C.": "Energy poor",
       "D.": "Reduced"
     },
-    "question": "Photosynthesis is process in which ________ compounds of carbon (CO2) and hydrogen (H2O) are reduced to carbohydrate like (glucose) using light energy.",
+    "q": "Photosynthesis is process in which ________ compounds of carbon (CO2) and hydrogen (H2O) are reduced to carbohydrate like (glucose) using light energy.",
     "index": 81
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Photosynthesis",
       "B.": "Aerobic respiration",
       "C.": "Anaerobic respiration",
       "D.": "Respiration"
     },
-    "question": "C6H12O6 + 6O2 ? 6CO2 + 6H20 + ENERGY represents:",
+    "q": "C6H12O6 + 6O2 ? 6CO2 + 6H20 + ENERGY represents:",
     "index": 82
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Day time.",
       "B.": "Night time.",
       "C.": "Dawn & Dusk.",
       "D.": "Mid night."
     },
-    "question": "At which times there is no net gaseous exchange between leaves and the atmosphere.",
+    "q": "At which times there is no net gaseous exchange between leaves and the atmosphere.",
     "index": 83
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Leaves respire and utilize O2 and release CO2.",
       "B.": "Photosynthesis and respiration occur at same rate. So there is not net exchange of gases between atmosphere and plants.",
       "C.": "Rate of photosynthesis increases, so do the O2 production, with a net release of oxygen coupled with the uptake of CO2.",
       "D.": "Rate of respiration becomes more than rate of photosynthesis."
     },
-    "question": "Which of the following is a compensation point:",
+    "q": "Which of the following is a compensation point:",
     "index": 84
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Bioenergetics",
       "B.": "Laws of thermodynamics",
       "C.": "Laws of thermo chemistry",
       "D.": "Laws of chemical energetic"
     },
-    "question": "Quantitative study of energy relationships in biological systems obeys.",
+    "q": "Quantitative study of energy relationships in biological systems obeys.",
     "index": 85
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Plants",
       "B.": "Animals",
       "C.": "Omnivores",
       "D.": "Fungi"
     },
-    "question": "The organisms able to use sunlight directly as a source of energy are",
+    "q": "The organisms able to use sunlight directly as a source of energy are",
     "index": 86
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Glycolysis",
       "B.": "Respiration",
       "C.": "Photosynthesis",
       "D.": "Kreb's cycle"
     },
-    "question": "Of the following which one is not an energy releasing process?",
+    "q": "Of the following which one is not an energy releasing process?",
     "index": 87
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "1 molecule",
       "B.": "6 molecules",
       "C.": "3 molecules",
       "D.": "0 molecule"
     },
-    "question": "Net yield of H2O in Photosynthesis is",
+    "q": "Net yield of H2O in Photosynthesis is",
     "index": 88
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Neutral point",
       "B.": "Compensation point",
       "C.": "Parallel point",
       "D.": "Competitive point"
     },
-    "question": "The point at which there is no net exchange of gases between leaves and atmosphere is known as",
+    "q": "The point at which there is no net exchange of gases between leaves and atmosphere is known as",
     "index": 89
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Bacteria",
       "B.": "Algae",
       "C.": "Protenema",
       "D.": "Cyanobacteria"
     },
-    "question": "Van neil hypothesis about the production of oxygen during phosynthesis was based on the study and investigations on",
+    "q": "Van neil hypothesis about the production of oxygen during phosynthesis was based on the study and investigations on",
     "index": 90
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "300 - 700 nm in wavelength",
       "B.": "350 - 750 nm in wavelength",
       "C.": "380 - 750 nm in wavelength",
       "D.": "390 - 790 nm in wavelength."
     },
-    "question": "Visible light used in photosynthesis ranges from:",
+    "q": "Visible light used in photosynthesis ranges from:",
     "index": 91
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Orange",
       "B.": "Red",
       "C.": "Blue",
       "D.": "Green"
     },
-    "question": "Which of the following light is least absorbed by the plants:",
+    "q": "Which of the following light is least absorbed by the plants:",
     "index": 92
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Orange",
       "B.": "Red",
       "C.": "Green",
       "D.": "Both A and B"
     },
-    "question": "Which of the light is mainly absorbed by the plants:",
+    "q": "Which of the light is mainly absorbed by the plants:",
     "index": 93
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Carbon tetrachloride",
       "B.": "Alcohol",
       "C.": "Organic solvents",
       "D.": "Water"
     },
-    "question": "Chlorophyll is insoluble in:",
+    "q": "Chlorophyll is insoluble in:",
     "index": 94
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "It is a porphyrin ring or tetrapyrrole ring structure",
       "B.": "It is flat, square and light absorbing",
       "C.": "Composed of carbon and nitrogen atoms with Magnesium as central metal ion, which is coordinated with nitrogen.",
       "D.": "It is hydrophobic"
     },
-    "question": "Which of the following statement about the head of a chlorophyll molecule is incorrect:",
+    "q": "Which of the following statement about the head of a chlorophyll molecule is incorrect:",
     "index": 95
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "C55H72O5N4Mg",
       "B.": "C55H70O6N4Mg",
       "C.": "C50H72O6N4Mg",
       "D.": "C55H70O5N4Mg"
     },
-    "question": "Molecular formula of chlorophyll 'a' molecule is:",
+    "q": "Molecular formula of chlorophyll 'a' molecule is:",
     "index": 96
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Chlorophyll a",
       "B.": "Chlorophyll b.",
       "C.": "Chlorophyll c",
       "D.": "Chlorophyll d."
     },
-    "question": "Which of the following pigment is Blue- green in colour:",
+    "q": "Which of the following pigment is Blue- green in colour:",
     "index": 97
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Carotenoids ? Chlorophyll a ? Chlorophyll b.",
       "B.": "Chlorophyll b ? Carotenoids ? Chlorophyll a.",
       "C.": "Carotenoids ? Chlorophyll b ? Chlorophyll a.",
       "D.": "Chlorophyll a ? Chlorophyll b ? Carotenoids."
     },
-    "question": "Which is the correct order of energy transfer from assessory pigments to main photosynthetic pigment?",
+    "q": "Which is the correct order of energy transfer from assessory pigments to main photosynthetic pigment?",
     "index": 98
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Thylakoid",
       "B.": "Storma",
       "C.": "Chloroplast",
       "D.": "Grana"
     },
-    "question": "Light reaction takes place on/in",
+    "q": "Light reaction takes place on/in",
     "index": 99
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Grana",
       "B.": "Stroma",
       "C.": "Nucleus",
       "D.": "None of these"
     },
-    "question": "Thylakoids in chloroplasts are stacked into",
+    "q": "Thylakoids in chloroplasts are stacked into",
     "index": 100
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Leaves respire and utilize O2 and release CO2.",
       "B.": "Stems",
       "C.": "Roots",
       "D.": "Branches"
     },
-    "question": "In all plants the major sites of phosynthesis are",
+    "q": "In all plants the major sites of phosynthesis are",
     "index": 101
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Grana",
       "B.": "Stroma",
       "C.": "Thylakoid",
       "D.": "None of these"
     },
-    "question": "The dense fluid filled region in the chloroplast is",
+    "q": "The dense fluid filled region in the chloroplast is",
     "index": 102
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Stroma",
       "B.": "Grana",
       "C.": "Thylakoid",
       "D.": "Intergrana"
     },
-    "question": "Chlorophylls are found embedded in the ______ membranes",
+    "q": "Chlorophylls are found embedded in the ______ membranes",
     "index": 103
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Yellow",
       "B.": "Red",
       "C.": "Orange",
       "D.": "Green"
     },
-    "question": "Xanthophylls are ______ pigments",
+    "q": "Xanthophylls are ______ pigments",
     "index": 104
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Orange - blue",
       "B.": "Violet - red",
       "C.": "Yellow - orange",
       "D.": "Orange - red."
     },
-    "question": "Chlorophylls mainly absorb ____ wavelengths",
+    "q": "Chlorophylls mainly absorb ____ wavelengths",
     "index": 105
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Magnesium",
       "B.": "Iron",
       "C.": "Chlorine",
       "D.": "Oxygen"
     },
-    "question": "Deficiency of ________ causes yellowing in plants",
+    "q": "Deficiency of ________ causes yellowing in plants",
     "index": 106
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Hydrophilic",
       "B.": "Hydrophobic",
       "C.": "Both of these",
       "D.": "None of these"
     },
-    "question": "The chlorophyll molecule is embedded in the core of thylakoid membrane which acts as",
+    "q": "The chlorophyll molecule is embedded in the core of thylakoid membrane which acts as",
     "index": 107
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Chlorophyll a",
       "B.": "Chlorophyll b",
       "C.": "Xanthophyll",
       "D.": "Carotenes"
     },
-    "question": "The most important photosynthetic pigment",
+    "q": "The most important photosynthetic pigment",
     "index": 108
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Chlorophyll e",
       "B.": "Chlorophyll d",
       "C.": "Chlorophyll a",
       "D.": "Chlorophyll c"
     },
-    "question": "Bacteriochlorophylls does not include",
+    "q": "Bacteriochlorophylls does not include",
     "index": 109
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "C55 H10 O4 N6 Mg",
       "B.": "C55 H70 O6 N5 Mg",
       "C.": "C55 H71 O6 N4 Mg",
       "D.": "C55 H70 O6 N4 Mg"
     },
-    "question": "Molecular formula of chlorophyll b is",
+    "q": "Molecular formula of chlorophyll b is",
     "index": 110
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Animals",
       "B.": "Plants",
       "C.": "Both of these",
       "D.": "None of these"
     },
-    "question": "Carotenoids perform protective function in",
+    "q": "Carotenoids perform protective function in",
     "index": 111
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "10%",
       "B.": "20%",
       "C.": "30%",
       "D.": "40%"
     },
-    "question": "About _______ % of photosynthesis is carried by terrestrial plants, while rest occurs in ocean, lakes, and ponds.",
+    "q": "About _______ % of photosynthesis is carried by terrestrial plants, while rest occurs in ocean, lakes, and ponds.",
     "index": 112
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "0.02-0.03",
       "B.": "0.03-0.04",
       "C.": "0.04-0.05",
       "D.": "0.05-0.06"
     },
-    "question": "Air contains ______ % of CO2",
+    "q": "Air contains ______ % of CO2",
     "index": 113
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "600",
       "B.": "650",
       "C.": "680",
       "D.": "700"
     },
-    "question": "PS I has chlorophyll a molecule which absorbs maximum light of _____ nm.",
+    "q": "PS I has chlorophyll a molecule which absorbs maximum light of _____ nm.",
     "index": 114
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "20%",
       "B.": "15%",
       "C.": "10%",
       "D.": "1%"
     },
-    "question": "The percentage of light absorbed by the leaf",
+    "q": "The percentage of light absorbed by the leaf",
     "index": 115
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "T.W.Englemam",
       "B.": "Malleus",
       "C.": "T.W.Inws",
       "D.": "W.Stapes"
     },
-    "question": "The first action spectrum was obtained by",
+    "q": "The first action spectrum was obtained by",
     "index": 116
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Algae",
       "B.": "Fungi",
       "C.": "Bacteria",
       "D.": "Spirogyra"
     },
-    "question": "First Actions spectrum was obtained by using",
+    "q": "First Actions spectrum was obtained by using",
     "index": 117
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Blue",
       "B.": "Orange",
       "C.": "Red",
       "D.": "Violet"
     },
-    "question": "Of the following, which one causes higher production of food in green plants",
+    "q": "Of the following, which one causes higher production of food in green plants",
     "index": 118
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "1-2%",
       "B.": "5%",
       "C.": "10%",
       "D.": "20%"
     },
-    "question": "Photosynthesis carried out by terrestrial plants is ____ of total photosynthesis.",
+    "q": "Photosynthesis carried out by terrestrial plants is ____ of total photosynthesis.",
     "index": 119
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "0.03 - 0.04%",
       "B.": "10%",
       "C.": "1-2 %",
       "D.": "50%"
     },
-    "question": "Stomata cover only _________ of leaf surface.",
+    "q": "Stomata cover only _________ of leaf surface.",
     "index": 120
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "O2",
       "B.": "CO2",
       "C.": "H2O",
       "D.": "light energy"
     },
-    "question": "Reduction in photosynthesis is of",
+    "q": "Reduction in photosynthesis is of",
     "index": 121
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "assimilatory power",
       "B.": "chemical energy",
       "C.": "energized electrons",
       "D.": "All of these"
     },
-    "question": "NADPH2 provides",
+    "q": "NADPH2 provides",
     "index": 122
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Antenna complex",
       "B.": "Reaction centre",
       "C.": "Photosystem",
       "D.": "None of these"
     },
-    "question": "Of the following, which one light - gathering",
+    "q": "Of the following, which one light - gathering",
     "index": 123
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "680 nm",
       "B.": "100 m",
       "C.": "700 nm",
       "D.": "670 nm"
     },
-    "question": "Photosystem II has molecules which absorbs maximum light of",
+    "q": "Photosystem II has molecules which absorbs maximum light of",
     "index": 124
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Nucleus",
       "B.": "Cytosol",
       "C.": "Mitochondria.",
       "D.": "Ribosomes"
     },
-    "question": "Glycolysis takes place in:",
+    "q": "Glycolysis takes place in:",
     "index": 125
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Alcoholic fermentation",
       "B.": "Lactic acid fermentation",
       "C.": "Aerobic respiration.",
       "D.": "All of these"
     },
-    "question": "Complete breakdown of glucose molecule takes place in which of the following:",
+    "q": "Complete breakdown of glucose molecule takes place in which of the following:",
     "index": 126
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Acetaldehyde",
       "B.": "Methyl alcohol",
       "C.": "Ethyl alcohol.",
       "D.": "Lactic acid."
     },
-    "question": "In alcoholic fermentation Pyruvic acid is broken down into:",
+    "q": "In alcoholic fermentation Pyruvic acid is broken down into:",
     "index": 127
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Brain.",
       "B.": "Heart",
       "C.": "Liver.",
       "D.": "Muscles"
     },
-    "question": "In which of the following component of the body, lactic acid fermentation takes place:",
+    "q": "In which of the following component of the body, lactic acid fermentation takes place:",
     "index": 128
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "1%",
       "B.": "2%",
       "C.": "3%",
       "D.": "4%"
     },
-    "question": "In Anaerobic respiration only _____ % of the energy present within the chemical bond of glucose is converted into ATP.",
+    "q": "In Anaerobic respiration only _____ % of the energy present within the chemical bond of glucose is converted into ATP.",
     "index": 129
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Oxidation.",
       "B.": "Reduction.",
       "C.": "Redox.",
       "D.": "None of the above."
     },
-    "question": "Cellular respiration is essentially a/an _________ process.",
+    "q": "Cellular respiration is essentially a/an _________ process.",
     "index": 130
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "6.1",
       "B.": "6.3",
       "C.": "7.1",
       "D.": "7.3"
     },
-    "question": "Breaking of terminal phosphate of ATP releases about _____ Kcal of energy.",
+    "q": "Breaking of terminal phosphate of ATP releases about _____ Kcal of energy.",
     "index": 131
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Glycolysis",
       "B.": "Kreb's cycle",
       "C.": "Light dependent phase",
       "D.": "none of these"
     },
-    "question": "ATP are consumed during",
+    "q": "ATP are consumed during",
     "index": 132
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "1",
       "B.": "2",
       "C.": "3",
       "D.": "4"
     },
-    "question": "From one pyruvate passing through Kreb's cycle, how many NADH are formed?",
+    "q": "From one pyruvate passing through Kreb's cycle, how many NADH are formed?",
     "index": 133
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "NADH",
       "B.": "Cytochrome a3",
       "C.": "Water",
       "D.": "Oxygen"
     },
-    "question": "Final acceptor of electrons in respiratory chain is",
+    "q": "Final acceptor of electrons in respiratory chain is",
     "index": 134
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Accumulation of toxic waste products in leaves.",
       "B.": "Deficiency of chlorophyll.",
       "C.": "Short supplies of mineral nutrients in the soil.",
       "D.": "All of these"
     },
-    "question": "Chlorosis, i.e., yellowish hue on the leaves results from",
+    "q": "Chlorosis, i.e., yellowish hue on the leaves results from",
     "index": 135
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Indole propionic acid.",
       "B.": "Indole carboxylic acid.",
       "C.": "Indole acetaldehyde",
       "D.": "Indole acetic acid."
     },
-    "question": "Chemically auxins are",
+    "q": "Chemically auxins are",
     "index": 136
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "White",
       "B.": "Red",
       "C.": "Blue",
       "D.": "Green"
     },
-    "question": "Gibberellins may be substituted for _____ light, therefore promote flowering in long day plants.",
+    "q": "Gibberellins may be substituted for _____ light, therefore promote flowering in long day plants.",
     "index": 137
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Gibberellins",
       "B.": "Cytokinins",
       "C.": "Abscisic Acid",
       "D.": "none of these."
     },
-    "question": "Which of the following is antagonist to Auxin in terms of promotion of stem growth?",
+    "q": "Which of the following is antagonist to Auxin in terms of promotion of stem growth?",
     "index": 138
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Gibberellins",
       "B.": "Cytokinins",
       "C.": "Auxins",
       "D.": "Ethene."
     },
-    "question": "Abscisic acid promotes flowering in short day plants and inhibits in long day plants, which of the following is antagonistic to abscisic acid in terms of flowering:",
+    "q": "Abscisic acid promotes flowering in short day plants and inhibits in long day plants, which of the following is antagonistic to abscisic acid in terms of flowering:",
     "index": 139
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Gibberellins",
       "B.": "Cytokinins",
       "C.": "Auxins",
       "D.": "Abscisic Acid"
     },
-    "question": "The only promoter of leaf senescence in the following plant hormones is:",
+    "q": "The only promoter of leaf senescence in the following plant hormones is:",
     "index": 140
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Gibberellins",
       "B.": "Cytokinins",
       "C.": "Auxins",
       "D.": "Abscisic Acid"
     },
-    "question": "Which of the following is used in brewing industry to promote malting:",
+    "q": "Which of the following is used in brewing industry to promote malting:",
     "index": 141
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Chemoreceptors",
       "B.": "Mechanoreceptors",
       "C.": "Photoreceptors",
       "D.": "Thermoreceptors"
     },
-    "question": "Which type of the receptors are present in the ear?",
+    "q": "Which type of the receptors are present in the ear?",
     "index": 142
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Touch.",
       "B.": "Temperature.",
       "C.": "Pressure.",
       "D.": "Pain"
     },
-    "question": "Type of sensations carried by nociceptors are:",
+    "q": "Type of sensations carried by nociceptors are:",
     "index": 143
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Hair end organs",
       "B.": "Meissner's Corpuscles.",
       "C.": "Pacinian corpuscles.",
       "D.": "None of these."
     },
-    "question": "Which type of sensory structures carrying the touch sensations are present in papillae extending into ridges of the fingertips?",
+    "q": "Which type of sensory structures carrying the touch sensations are present in papillae extending into ridges of the fingertips?",
     "index": 144
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Hair end organs",
       "B.": "Meissner's Corpuscles.",
       "C.": "Pacinian corpuscles.",
       "D.": "none of these."
     },
-    "question": "Which type of sensory structures carry deep pressure and vibration sensations?",
+    "q": "Which type of sensory structures carry deep pressure and vibration sensations?",
     "index": 145
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Axoplasm",
       "B.": "Myelin sheath.",
       "C.": "Dendrite.",
       "D.": "Soma."
     },
-    "question": "Nissl's granules are present in which part of the neuron?",
+    "q": "Nissl's granules are present in which part of the neuron?",
     "index": 146
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "They not only conduct impulses but also generate them.",
       "B.": "They are not the only cellular component of nervous system.",
       "C.": "They may show limited regenerative capabilities.",
       "D.": "Like all the living cell, when they mature and divide to form similar cells."
     },
-    "question": "Which of the following statement about neuron is incorrect?",
+    "q": "Which of the following statement about neuron is incorrect?",
     "index": 147
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Sensory neurons",
       "B.": "Motor neurons",
       "C.": "Associative neurons",
       "D.": "None of these."
     },
-    "question": "Type of neurons found exclusively in CNS are:",
+    "q": "Type of neurons found exclusively in CNS are:",
     "index": 148
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Active",
       "B.": "Passive",
       "C.": "Diffusional",
       "D.": "None of these."
     },
-    "question": "Maintenance of normal resting potential via movement of K+ inside the cell and na+ out is a/an _______ process.",
+    "q": "Maintenance of normal resting potential via movement of K+ inside the cell and na+ out is a/an _______ process.",
     "index": 149
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Na+",
       "B.": "K+",
       "C.": "Cl-",
       "D.": "PO4-2"
     },
-    "question": "Cell membrane under resting conditions is impermeable to all the ions except",
+    "q": "Cell membrane under resting conditions is impermeable to all the ions except",
     "index": 150
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Active transport.",
       "B.": "Passive transport.",
       "C.": "Diffusion.",
       "D.": "none of these."
     },
-    "question": "At the induction of action potential opening of Na+ gate with influx of Na+ is a _________ processes:",
+    "q": "At the induction of action potential opening of Na+ gate with influx of Na+ is a _________ processes:",
     "index": 151
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "? 50 mv",
       "B.": "? 60 mv",
       "C.": "? 70 mv",
       "D.": "? 80 mv"
     },
-    "question": "Normal resting membrane potential of a neuron is",
+    "q": "Normal resting membrane potential of a neuron is",
     "index": 152
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "plus 50 mv",
       "B.": "plus 60 mv",
       "C.": "plus 70 mv",
       "D.": "plus 80 mv"
     },
-    "question": "Normal action potential of a neuronal cell is :",
+    "q": "Normal action potential of a neuronal cell is :",
     "index": 153
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Maintenance of resting potential.",
       "B.": "Massive out flux of K+ after depolarization.",
       "C.": "Recovery of resting potential.",
       "D.": "Conversion of resting potential into action potential."
     },
-    "question": "Na+ -K+ ATPase pump is important for:",
+    "q": "Na+ -K+ ATPase pump is important for:",
     "index": 154
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "100 m/sec",
       "B.": "110 m/sec",
       "C.": "120m/sec",
       "D.": "130 m/sec."
     },
-    "question": "Maximum speed of nerve impulse transmission is",
+    "q": "Maximum speed of nerve impulse transmission is",
     "index": 155
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Hydra",
       "B.": "Man",
       "C.": "Planaria",
       "D.": "Cockroach"
     },
-    "question": "Which of the following has no central nervous system?",
+    "q": "Which of the following has no central nervous system?",
     "index": 156
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Regulation of body functions",
       "B.": "Organization of body functions",
       "C.": "Integration of body functions",
       "D.": "All of these"
     },
-    "question": "Co-ordination results in",
+    "q": "Co-ordination results in",
     "index": 157
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Receptors",
       "B.": "Neurons",
       "C.": "Effectors",
       "D.": "All of these"
     },
-    "question": "Which of the following are responsible for the detection of changes in environment?",
+    "q": "Which of the following are responsible for the detection of changes in environment?",
     "index": 158
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Muscles",
       "B.": "Glands",
       "C.": "Sensory organs",
       "D.": "Both 'a' & 'b'"
     },
-    "question": "Which of the followings are effectors?",
+    "q": "Which of the followings are effectors?",
     "index": 159
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Stimulus",
       "B.": "Variation",
       "C.": "Response",
       "D.": "Reaction"
     },
-    "question": "Any change in the environment of an organism is called",
+    "q": "Any change in the environment of an organism is called",
     "index": 160
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Brain",
       "B.": "Nerves",
       "C.": "Neuron-cells",
       "D.": "All of these"
     },
-    "question": "Hydra has",
+    "q": "Hydra has",
     "index": 161
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Ganglia",
       "B.": "Longitudinal nerves",
       "C.": "Lateral nerves",
       "D.": "none of these."
     },
-    "question": "Which of the followings is missing from the nervous system of planaria?",
+    "q": "Which of the followings is missing from the nervous system of planaria?",
     "index": 162
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Nervous system",
       "B.": "Endocrine system",
       "C.": "Both of these",
       "D.": "none of these."
     },
-    "question": "Co-ordination in man is brought about by",
+    "q": "Co-ordination in man is brought about by",
     "index": 163
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Sensory neuron",
       "B.": "Motor neuron",
       "C.": "Associative neuron",
       "D.": "none of these."
     },
-    "question": "Which of the following transmits nerve impulse from receptors to central nervous system?",
+    "q": "Which of the following transmits nerve impulse from receptors to central nervous system?",
     "index": 164
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Sensory neuron",
       "B.": "Motor neuron",
       "C.": "Associative neuron",
       "D.": "none of these."
     },
-    "question": "In which of the following neurons length of dendrite is greater than axon?",
+    "q": "In which of the following neurons length of dendrite is greater than axon?",
     "index": 165
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Sensory neuron",
       "B.": "Motor neuron",
       "C.": "Associative neuron",
       "D.": "none of these."
     },
-    "question": "Which of the following neuron has a single long dendron?",
+    "q": "Which of the following neuron has a single long dendron?",
     "index": 166
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Dendrites",
       "B.": "Axon",
       "C.": "Both of these",
       "D.": "none of these."
     },
-    "question": "Which of the following cytoplasmic extensions carry the message toward the cell body?",
+    "q": "Which of the following cytoplasmic extensions carry the message toward the cell body?",
     "index": 167
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Transmitters",
       "B.": "Synapses",
       "C.": "Pores",
       "D.": "Nodes"
     },
-    "question": "Microscopic gaps between the neuron endings are called",
+    "q": "Microscopic gaps between the neuron endings are called",
     "index": 168
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "To allow nerve impulse to move in backward direction",
       "B.": "To decrease the speed of nerve impulse",
       "C.": "To stop the nerve impulse",
       "D.": "To provide cytoplasmic connection between neurons."
     },
-    "question": "What is the function of synapse?",
+    "q": "What is the function of synapse?",
     "index": 169
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Outer surface of neuron is more positive",
       "B.": "Inner surface of neuron is more positive",
       "C.": "Both of these surfaces are equally positive",
       "D.": "none of these."
     },
-    "question": "Under resting membrane potentials",
+    "q": "Under resting membrane potentials",
     "index": 170
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Na+",
       "B.": "K+",
       "C.": "Fe",
       "D.": "none of these."
     },
-    "question": "Which of the following ions are involved in the initiation of nerve impulse",
+    "q": "Which of the following ions are involved in the initiation of nerve impulse",
     "index": 171
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Brain",
       "B.": "Spinal cord",
       "C.": "Hypothalamus",
       "D.": "none of these."
     },
-    "question": "Reflex actions below the neck are under control of",
+    "q": "Reflex actions below the neck are under control of",
     "index": 172
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Brain",
       "B.": "Spinal cord",
       "C.": "Both of these",
       "D.": "none of these."
     },
-    "question": "Central nervous system of man consists of",
+    "q": "Central nervous system of man consists of",
     "index": 173
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Cerebrum",
       "B.": "Cerebellum",
       "C.": "Medulla oblongata",
       "D.": "Thalamus"
     },
-    "question": "Which of the following is largest part of brain",
+    "q": "Which of the following is largest part of brain",
     "index": 174
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Brain",
       "B.": "Spinal cord",
       "C.": "Both of these",
       "D.": "none of these."
     },
-    "question": "Which of the following is present inside the vertebral column",
+    "q": "Which of the following is present inside the vertebral column",
     "index": 175
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Cerebrum",
       "B.": "Cerebellum",
       "C.": "Thalamus",
       "D.": "Hypothalamus"
     },
-    "question": "Intelligence is under the control of",
+    "q": "Intelligence is under the control of",
     "index": 176
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Cerebrum",
       "B.": "Cerebellum",
       "C.": "Thalamus",
       "D.": "Hypothalamus"
     },
-    "question": "Which of the following is second largest part of the brain?",
+    "q": "Which of the following is second largest part of the brain?",
     "index": 177
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Cerebrum",
       "B.": "Cerebellum",
       "C.": "Thalamus",
       "D.": "Hypothalamus"
     },
-    "question": "Which of the following acts as thermoregulator?",
+    "q": "Which of the following acts as thermoregulator?",
     "index": 178
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Cerebrum",
       "B.": "Cerebellum",
       "C.": "Thalamus",
       "D.": "Hypothalamus"
     },
-    "question": "Which of the following allows precise muscular movements?",
+    "q": "Which of the following allows precise muscular movements?",
     "index": 179
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Chemical",
       "B.": "Mechanical",
       "C.": "Photo",
       "D.": "Nociceptors"
     },
-    "question": "Receptors for hearing come under heading of",
+    "q": "Receptors for hearing come under heading of",
     "index": 180
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Parkinson's disease",
       "B.": "Epilepsy",
       "C.": "Alzheimer's discease",
       "D.": "Dementia"
     },
-    "question": "It is one of the convulsive disorders of nerves which are characterized by abrupt transient symptoms of motor, sensory, psychic or autonomic nature.",
+    "q": "It is one of the convulsive disorders of nerves which are characterized by abrupt transient symptoms of motor, sensory, psychic or autonomic nature.",
     "index": 181
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Conduction",
       "B.": "Regeneration",
       "C.": "Reflex",
       "D.": "Movement"
     },
-    "question": "Which of the following feature is not related to neuron",
+    "q": "Which of the following feature is not related to neuron",
     "index": 182
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "0.03 V",
       "B.": "0.05 V",
       "C.": "0.07 V",
       "D.": "0.09V"
     },
-    "question": "Value of resting membrane potential is",
+    "q": "Value of resting membrane potential is",
     "index": 183
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "10",
       "B.": "11",
       "C.": "12",
       "D.": "13"
     },
-    "question": "Number of pairs of cranial nerves is",
+    "q": "Number of pairs of cranial nerves is",
     "index": 184
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Myxedema",
       "B.": "Cretinism",
       "C.": "Goiter",
       "D.": "Exopthalmic goiter"
     },
-    "question": "Insufficient secretion of iodothyroxine in adults causes",
+    "q": "Insufficient secretion of iodothyroxine in adults causes",
     "index": 185
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Protein",
       "B.": "Amino acid derivative",
       "C.": "Polypeptide",
       "D.": "Steroid"
     },
-    "question": "Insulin and glucagons are ________ in nature.",
+    "q": "Insulin and glucagons are ________ in nature.",
     "index": 186
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "STH",
       "B.": "TSH",
       "C.": "ACTH",
       "D.": "Thyroxin"
     },
-    "question": "Acromegaly is caused due to oversecretion of",
+    "q": "Acromegaly is caused due to oversecretion of",
     "index": 187
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Anterior pituitary",
       "B.": "Median pituitary",
       "C.": "Posterior pituitary",
       "D.": "None of these"
     },
-    "question": "MSH is produced from",
+    "q": "MSH is produced from",
     "index": 188
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Undersecretion of thyroxin",
       "B.": "Overproduction of thyroxin",
       "C.": "Undersecretion of corticosteroids",
       "D.": "Overproduction of corticosteroids"
     },
-    "question": "Grave's disease is produced due to",
+    "q": "Grave's disease is produced due to",
     "index": 189
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Stomach",
       "B.": "Liver",
       "C.": "Pancreas",
       "D.": "Duodenum"
     },
-    "question": "Secretin is a hormone produced by",
+    "q": "Secretin is a hormone produced by",
     "index": 190
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Produce chemical messengers",
       "B.": "Release chemical messengers in extracellular space",
       "C.": "Homestatic in function",
       "D.": "Having slow but prolonged effects"
     },
-    "question": "All of the following are similarities between nervous and endocrine system except",
+    "q": "All of the following are similarities between nervous and endocrine system except",
     "index": 191
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Kinesis",
       "B.": "Taxes",
       "C.": "Instinct",
       "D.": "Learning"
     },
-    "question": "Types of behaviour enabling pillbugs to reach moist area is",
+    "q": "Types of behaviour enabling pillbugs to reach moist area is",
     "index": 192
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Thorpe",
       "B.": "Darwin",
       "C.": "Pavlov",
       "D.": "Kohler"
     },
-    "question": "_________ was first to propose an objective definition of instinct.",
+    "q": "_________ was first to propose an objective definition of instinct.",
     "index": 193
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Imprinting",
       "B.": "Habituation",
       "C.": "Insight learning",
       "D.": "Latent learning"
     },
-    "question": "_______ is simplest form of learning.",
+    "q": "_______ is simplest form of learning.",
     "index": 194
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Cofactor",
       "B.": "Coenzymes",
       "C.": "Activator",
       "D.": "Enzymes"
     },
-    "question": "Biological molecules (proteins) which catalyze a biochemical reaction and remain unchanged after completion of reaction are called",
+    "q": "Biological molecules (proteins) which catalyze a biochemical reaction and remain unchanged after completion of reaction are called",
     "index": 195
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Some of them consist solely of protein with no non protein part.",
       "B.": "They catalyze a chemical reaction without being utilized.",
       "C.": "All enzymes are fibrous Proteins.",
       "D.": "They without their cofactor are called apoenzyme."
     },
-    "question": "Which statement about enzyme is incorrect:",
+    "q": "Which statement about enzyme is incorrect:",
     "index": 196
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Nucleus",
       "B.": "Chlorophast",
       "C.": "Milochondria",
       "D.": "Ribosome"
     },
-    "question": "In which of the following location enzymes controlling cellular respiration are present?",
+    "q": "In which of the following location enzymes controlling cellular respiration are present?",
     "index": 197
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Apoenzyme",
       "B.": "Holoenzyme",
       "C.": "Activated enzyme",
       "D.": "Both b and c"
     },
-    "question": "An activated enzyme consisting of polypeptide chain and a cofactor is called:",
+    "q": "An activated enzyme consisting of polypeptide chain and a cofactor is called:",
     "index": 198
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Vitamins",
       "B.": "Carbohydrates",
       "C.": "Proteins",
       "D.": "Metals"
     },
-    "question": "Which one forms the raw material for coenzymes?",
+    "q": "Which one forms the raw material for coenzymes?",
     "index": 199
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Prosthetic group",
       "B.": "Coenzyme",
       "C.": "Activator",
       "D.": "Cofactor"
     },
-    "question": "A cofactor made of inorganic ion which is detachable is called",
+    "q": "A cofactor made of inorganic ion which is detachable is called",
     "index": 200
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Increases",
       "B.": "Decreases",
       "C.": "Does not effect",
       "D.": "Increases or decreases depending upon individual enzyme"
     },
-    "question": "Enzymes _________ the activation energy of a chemical reaction",
+    "q": "Enzymes _________ the activation energy of a chemical reaction",
     "index": 201
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Active site",
       "B.": "Binding site",
       "C.": "Catalytic site",
       "D.": "Allosteric site"
     },
-    "question": "A three dimensional dcavity bearing a specific charge by which the enzyme reacts with its substrate is called",
+    "q": "A three dimensional dcavity bearing a specific charge by which the enzyme reacts with its substrate is called",
     "index": 202
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Change in pH of the surroundings.",
       "B.": "Formation of Enzyme Susstrate complex.",
       "C.": "Change in the charge of the active site.",
       "D.": "Change in temperature"
     },
-    "question": "Which step causes activation of catalytic site of an enzyme?",
+    "q": "Which step causes activation of catalytic site of an enzyme?",
     "index": 203
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Emil Fischer",
       "B.": "Koshland",
       "C.": "Robin Williams",
       "D.": "Rudolph Virchow"
     },
-    "question": "Lock and Key model was proposed by",
+    "q": "Lock and Key model was proposed by",
     "index": 204
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Specific enzyme can transform only a specific substrate",
       "B.": "Active site of an enzyme is a non flexible structure.",
       "C.": "Active site does not change before during or even after the reaction.",
       "D.": "It explains the mechanism of every chemical reaction."
     },
-    "question": "Which statement is incorrect about Lock and Key Model?",
+    "q": "Which statement is incorrect about Lock and Key Model?",
     "index": 205
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Increase in enzyme molecule increases the available active sites.",
       "B.": "This relation is for unlimited time period with unlimited enzyme concentration",
       "C.": "If the concentration is doubled the rate will become two fold.",
       "D.": "None of these."
     },
-    "question": "The rate of reaction is directly proportional to the concentration of an enzyme which statement is incorrect in this respect:",
+    "q": "The rate of reaction is directly proportional to the concentration of an enzyme which statement is incorrect in this respect:",
     "index": 206
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Enzymes get denatured at higher substrate conc.",
       "B.": "Rate of reaction is indirectly proportional to substrate concentration at this point.",
       "C.": "All the active sites on enzyme molecule are occupied.",
       "D.": "None of these."
     },
-    "question": "If the concentration of enzyme is kept constant and amount of substrate is increased a point is reached where increase in substrates concentration does not affect the reaction rate because of",
+    "q": "If the concentration of enzyme is kept constant and amount of substrate is increased a point is reached where increase in substrates concentration does not affect the reaction rate because of",
     "index": 207
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "There is probably more substrate present than there is enzyme.",
       "B.": "There is probably more enzayme available than there is substrate.",
       "C.": "There is probably more product present than there is either substrate or enzyme.",
       "D.": "The enzyme substrate complex is probably failing to form during the reaction."
     },
-    "question": "If more substrate to already occurring enzymatic reaction is added more enzyme activity is seen because:",
+    "q": "If more substrate to already occurring enzymatic reaction is added more enzyme activity is seen because:",
     "index": 208
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Saturation",
       "B.": "Denaturation",
       "C.": "Composition",
       "D.": "Inhibition"
     },
-    "question": "If more substrate to already occurring enzymatic reaction is added and there is no effect on the rate of the reaction what is the form given to this situation:",
+    "q": "If more substrate to already occurring enzymatic reaction is added and there is no effect on the rate of the reaction what is the form given to this situation:",
     "index": 209
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Never changes",
       "B.": "Forms no chemical bond with substrate",
       "C.": "Determined by structure and the specificity of the enzyme.",
       "D.": "They are non specific in their action."
     },
-    "question": "The active site of an enzyme:",
+    "q": "The active site of an enzyme:",
     "index": 210
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Activate",
       "B.": "Unaffected",
       "C.": "Denatured",
       "D.": "None of these."
     },
-    "question": "Excessive increase in temperature of medium causes the enzyme molecule to",
+    "q": "Excessive increase in temperature of medium causes the enzyme molecule to",
     "index": 211
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Change in ionization of amino acids at the active site of the enzyme.",
       "B.": "Change in the ionization of the substrate.",
       "C.": "Denaturation of the enzyme",
       "D.": "Increase in the reaction rate."
     },
-    "question": "Extreme change in pH results in:",
+    "q": "Extreme change in pH results in:",
     "index": 212
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "27?C",
       "B.": "37?C",
       "C.": "47?C",
       "D.": "30?C"
     },
-    "question": "Optimal temperature of enzymes present in human body is",
+    "q": "Optimal temperature of enzymes present in human body is",
     "index": 213
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Co-enzyme",
       "B.": "Blocker",
       "C.": "Inhibitor",
       "D.": "Cofactor"
     },
-    "question": "A chemical substance which can react (in place of substrate) with the enzyme but is not transformed into product/s and thus blocks the active site temporarily or permanently is called",
+    "q": "A chemical substance which can react (in place of substrate) with the enzyme but is not transformed into product/s and thus blocks the active site temporarily or permanently is called",
     "index": 214
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Competitive inhibitors.",
       "B.": "Non-competitive inhibitors",
       "C.": "Irreversible inhibitors.",
       "D.": "Both a and b"
     },
-    "question": "Inhibitors which block the enzyme by forming weak bond are called",
+    "q": "Inhibitors which block the enzyme by forming weak bond are called",
     "index": 215
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Irreversible inhibitor",
       "B.": "Reversible inhibitor",
       "C.": "Competitive inhibitor",
       "D.": "Non-competitive inhibitor"
     },
-    "question": "A substance which binds at the active site of the enzyme but does not result in the formation of the products is called:",
+    "q": "A substance which binds at the active site of the enzyme but does not result in the formation of the products is called:",
     "index": 216
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Irreversible inhibitor",
       "B.": "Reversible inhibitor",
       "C.": "Competitive inhibitor",
       "D.": "Non-competitive inhibitor"
     },
-    "question": "The structure of an enzyme is altered by:",
+    "q": "The structure of an enzyme is altered by:",
     "index": 217
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Irreversible inhibitor",
       "B.": "Reversible inhibitor",
       "C.": "Competitive inhibitor",
       "D.": "Non-competitive inhibitor"
     },
-    "question": "Malonic acid is an example of:",
+    "q": "Malonic acid is an example of:",
     "index": 218
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "increase in concentration of enzyme",
       "B.": "increase in concentration of substrate",
       "C.": "increase in pH",
       "D.": "increase in temperature"
     },
-    "question": "If enzyme concentration is low than substrate pH and temperature values are equal to requirement then which of the following will increase rate of reaction.",
+    "q": "If enzyme concentration is low than substrate pH and temperature values are equal to requirement then which of the following will increase rate of reaction.",
     "index": 219
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Chemistry",
       "B.": "Biochemistry",
       "C.": "Molocular biology",
       "D.": "Both a and b"
     },
-    "question": "The branch of biology which deals with the study of chemical compounds and the chemical processes in the fliving organisms is called:",
+    "q": "The branch of biology which deals with the study of chemical compounds and the chemical processes in the fliving organisms is called:",
     "index": 220
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "CO2",
       "B.": "Water",
       "C.": "Lipids",
       "D.": "HCI"
     },
-    "question": "Which one is an organic compound?",
+    "q": "Which one is an organic compound?",
     "index": 221
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Water",
       "B.": "Carbohydrate",
       "C.": "Proteins",
       "D.": "Lipids"
     },
-    "question": "Which chemical component has the same % in bacterial as well as the mammalian cell?",
+    "q": "Which chemical component has the same % in bacterial as well as the mammalian cell?",
     "index": 222
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Proteins",
       "B.": "Carbohydrate",
       "C.": "Lipids",
       "D.": "Water"
     },
-    "question": "Which chemical component has the greatest contribution in the total mammalian cell weight?",
+    "q": "Which chemical component has the greatest contribution in the total mammalian cell weight?",
     "index": 223
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Metabolic reactions",
       "B.": "Catabolic reactions",
       "C.": "Anabolic reactions",
       "D.": "None of these"
     },
-    "question": "Reactions in which simple substances are combined to form complex substances are called:",
+    "q": "Reactions in which simple substances are combined to form complex substances are called:",
     "index": 224
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Oxygen",
       "B.": "Hydrogen",
       "C.": "Sulphur",
       "D.": "Carbon"
     },
-    "question": "Which one is the basic element of organic compounds ?",
+    "q": "Which one is the basic element of organic compounds ?",
     "index": 225
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Ionic bond",
       "B.": "Hydrogen bond",
       "C.": "Covalent bond",
       "D.": "Electrovalent bond"
     },
-    "question": "The bond formed when two or more atoms complete their electron shells by sharing electrons is called:",
+    "q": "The bond formed when two or more atoms complete their electron shells by sharing electrons is called:",
     "index": 226
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Monovalent",
       "B.": "Divalent",
       "C.": "Trivalent",
       "D.": "Tetravalent"
     },
-    "question": "Carbon atom is",
+    "q": "Carbon atom is",
     "index": 227
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "C-H",
       "B.": "C-O",
       "C.": "C-C",
       "D.": "C-N"
     },
-    "question": "Which bond provides stability to complex carbohydrate molecules?",
+    "q": "Which bond provides stability to complex carbohydrate molecules?",
     "index": 228
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "20%",
       "B.": "80%",
       "C.": "85%",
       "D.": "90%"
     },
-    "question": "% of water in brain cells is",
+    "q": "% of water in brain cells is",
     "index": 229
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Ionic as well as non ionic substance in aqueous media retains their identity.",
       "B.": "Enzymes can not perform catalysis reaction in this medium.",
       "C.": "Ions and molecules move randomly thus are in more favorable state to react with other molecules and ions.",
       "D.": "It is less favorable media for chemical reactions."
     },
-    "question": "Which statement is true about an aqueous medium:",
+    "q": "Which statement is true about an aqueous medium:",
     "index": 230
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Hydrophilic Carbohydrates",
       "B.": "Hydrophobic fats.",
       "C.": "Both a and b",
       "D.": "None of these"
     },
-    "question": "Which of the following substance is most favorable to form structural component of biological membranes?",
+    "q": "Which of the following substance is most favorable to form structural component of biological membranes?",
     "index": 231
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Specific Heat of Vaporization",
       "B.": "Specific Heat capacity",
       "C.": "Caloric Heat",
       "D.": "Both A and C"
     },
-    "question": "The number of calories required to raise the temperature of 1g of water from 15 to 16?C is called?",
+    "q": "The number of calories required to raise the temperature of 1g of water from 15 to 16?C is called?",
     "index": 232
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "High specific heat of vaporization",
       "B.": "High specific heat capacity",
       "C.": "Its Dipole nature",
       "D.": "Its liquid state"
     },
-    "question": "The property of water due to which it works as a temperature stabilizer and hence protect living organisms from sudden thermal changes is:",
+    "q": "The property of water due to which it works as a temperature stabilizer and hence protect living organisms from sudden thermal changes is:",
     "index": 233
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "574 Kcal/kg",
       "B.": "674 Kcal/kg",
       "C.": "774 Kcal/kg",
       "D.": "874 Kcal/kg"
     },
-    "question": "Specific heat of vaporization of water is:",
+    "q": "Specific heat of vaporization of water is:",
     "index": 234
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Lipid",
       "B.": "Carbohydrate",
       "C.": "Protein",
       "D.": "Carotein"
     },
-    "question": "A complex substance which on hydrolysis yields polyhydroxy aldehyde or ketone subunits is called:",
+    "q": "A complex substance which on hydrolysis yields polyhydroxy aldehyde or ketone subunits is called:",
     "index": 235
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Monosaccharides",
       "B.": "Oligosaccharides",
       "C.": "Ploysacharides",
       "D.": "Carbohydrates"
     },
-    "question": "Cn(H2O)n. is a general formula of :",
+    "q": "Cn(H2O)n. is a general formula of :",
     "index": 236
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "They are conjugated molecules of carbohydrates",
       "B.": "Both have role in the extra cellular matrix of animals and bacterial cell wall",
       "C.": "They are components of biological membranes.",
       "D.": "Both are produced and secreted by endoplasmic reticulum"
     },
-    "question": "Which of the statement is not true for compounds like glycoprotein and glycolipids?",
+    "q": "Which of the statement is not true for compounds like glycoprotein and glycolipids?",
     "index": 237
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Monosaccharides",
       "B.": "Oligosaccharides",
       "C.": "Polysaccharides",
       "D.": "None of these"
     },
-    "question": "Which one are most complex sugar:",
+    "q": "Which one are most complex sugar:",
     "index": 238
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Monosaccharide",
       "B.": "Oligosaccharide",
       "C.": "Polysaccharide",
       "D.": "None of these"
     },
-    "question": "Which of the following carbohydrate is tasteless?",
+    "q": "Which of the following carbohydrate is tasteless?",
     "index": 239
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Monosaccharide",
       "B.": "Oligosaccharide",
       "C.": "Polysaccharide",
       "D.": "None of these"
     },
-    "question": "Which of the following carbohydrate can not be hydrolysed?",
+    "q": "Which of the following carbohydrate can not be hydrolysed?",
     "index": 240
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Trioses",
       "B.": "Tetroses",
       "C.": "Pentose",
       "D.": "Hexose"
     },
-    "question": "Ribose is an example of",
+    "q": "Ribose is an example of",
     "index": 241
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "0.80%",
       "B.": "0.08%",
       "C.": "1.80%",
       "D.": "8%"
     },
-    "question": "% of Glucose normally present in our blood is",
+    "q": "% of Glucose normally present in our blood is",
     "index": 242
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Maltose",
       "B.": "Sucrose",
       "C.": "Fructose",
       "D.": "Glucose"
     },
-    "question": "Starch cellulose and glaycogen yield ________ on complete hydrolysis.",
+    "q": "Starch cellulose and glaycogen yield ________ on complete hydrolysis.",
     "index": 243
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "717.6 Kcal",
       "B.": "727 Kcal",
       "C.": "737 Kcal",
       "D.": "747 Kcal"
     },
-    "question": "For the synthesis of 10g of glucose ______ of energy is required:",
+    "q": "For the synthesis of 10g of glucose ______ of energy is required:",
     "index": 244
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Starch",
       "B.": "Glycogen",
       "C.": "Cellulose",
       "D.": "None of these"
     },
-    "question": "Which one is abundant in animals?",
+    "q": "Which one is abundant in animals?",
     "index": 245
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Starch",
       "B.": "Glycogen",
       "C.": "Amylose",
       "D.": "Amylopectin."
     },
-    "question": "Which one is soluble in hot water?",
+    "q": "Which one is soluble in hot water?",
     "index": 246
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Phosphodiester bond",
       "B.": "Peptide bond",
       "C.": "Glycosidic Bond",
       "D.": "Ionic bond"
     },
-    "question": "The covalent bond between two monosaccharide subunits is called:",
+    "q": "The covalent bond between two monosaccharide subunits is called:",
     "index": 247
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Starch",
       "B.": "Glycogen",
       "C.": "Cellulose",
       "D.": "Polysaccharide"
     },
-    "question": "Which one gives blue colour with iodine?",
+    "q": "Which one gives blue colour with iodine?",
     "index": 248
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Starch",
       "B.": "Glycogen",
       "C.": "Cellulose",
       "D.": "None of these"
     },
-    "question": "Which of the following polysaccharide is called animal starch?",
+    "q": "Which of the following polysaccharide is called animal starch?",
     "index": 249
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Silk",
       "B.": "Wool",
       "C.": "Cotton",
       "D.": "Paper"
     },
-    "question": "_________ is example of pure form of cellulose",
+    "q": "_________ is example of pure form of cellulose",
     "index": 250
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Water",
       "B.": "Ether",
       "C.": "All solvents",
       "D.": "Not in any of the above"
     },
-    "question": "Lipids are soluble in which of the following :",
+    "q": "Lipids are soluble in which of the following :",
     "index": 251
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "C-C bonds",
       "B.": "C-H bonds",
       "C.": "C-N bonds",
       "D.": "C-O bonds"
     },
-    "question": "Lipid molecules can store double amount of energy as compared to same amount of carbohydrate because of high number of",
+    "q": "Lipid molecules can store double amount of energy as compared to same amount of carbohydrate because of high number of",
     "index": 252
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Monosaccharide",
       "B.": "Fatty acid",
       "C.": "Neutral lipid",
       "D.": "Nucleic acid"
     },
-    "question": "A compound produced as a result of a chemical reaction of an alcohol with an acid in which water molecule is released is called:",
+    "q": "A compound produced as a result of a chemical reaction of an alcohol with an acid in which water molecule is released is called:",
     "index": 253
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Saturated Fatty acid",
       "B.": "Unsaturated fatty acid",
       "C.": "Oleic Acid",
       "D.": "Plamitic acid"
     },
-    "question": "Fatty acids containing 18 C atoms and a single double bond is",
+    "q": "Fatty acids containing 18 C atoms and a single double bond is",
     "index": 254
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Acetic acid",
       "B.": "Butyric acid",
       "C.": "Palmitic acid",
       "D.": "All have same"
     },
-    "question": "Which one the following fatty acid is more soluble in an organic solvent and has higher melting point?",
+    "q": "Which one the following fatty acid is more soluble in an organic solvent and has higher melting point?",
     "index": 255
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "They contain double bond",
       "B.": "They are usually solid at room temperature",
       "C.": "They are lighter than water",
       "D.": "Their specific gravity is less than 1"
     },
-    "question": "Which of the following statement is incorrect5 for fats containing unsaturated fatty acid?",
+    "q": "Which of the following statement is incorrect5 for fats containing unsaturated fatty acid?",
     "index": 256
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Glucose",
       "B.": "Starch",
       "C.": "Sucrose",
       "D.": "Glycogen"
     },
-    "question": "Animals obtain carbohydrates mainly from",
+    "q": "Animals obtain carbohydrates mainly from",
     "index": 257
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "C-N link",
       "B.": "C- O lind",
       "C.": "N-H link",
       "D.": "C-H link"
     },
-    "question": "Peptide bond is:",
+    "q": "Peptide bond is:",
     "index": 258
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "i & ii",
       "B.": "iii & iv",
       "C.": "i ii iii & iv",
       "D.": "iv only"
     },
-    "question": "Chemical component/s less in eukaryotic cell as compared to prokaryotic cell is / are (i) lipids (ii) carbodydrates (iii) proteins (iv) DNA",
+    "q": "Chemical component/s less in eukaryotic cell as compared to prokaryotic cell is / are (i) lipids (ii) carbodydrates (iii) proteins (iv) DNA",
     "index": 259
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "40%",
       "B.": "50%",
       "C.": "60%",
       "D.": "70%"
     },
-    "question": "Proteins comprise of _____% of the total dry weight of a cell.",
+    "q": "Proteins comprise of _____% of the total dry weight of a cell.",
     "index": 260
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Fatty acids",
       "B.": "Isoprenoid units",
       "C.": "Amino acids",
       "D.": "Nucleotides"
     },
-    "question": "Proteins are polymers of",
+    "q": "Proteins are polymers of",
     "index": 261
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "C",
       "B.": "S",
       "C.": "H",
       "D.": "N"
     },
-    "question": "The element in basic structure of proteins which differentiate them from carbohydrates is",
+    "q": "The element in basic structure of proteins which differentiate them from carbohydrates is",
     "index": 262
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "20",
       "B.": "25",
       "C.": "150",
       "D.": "170"
     },
-    "question": "Total number of amino acids discovered so far in cells and tissues are",
+    "q": "Total number of amino acids discovered so far in cells and tissues are",
     "index": 263
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "H",
       "B.": "CH3",
       "C.": "COOH",
       "D.": "C = O"
     },
-    "question": "In Glycin an amino acid R group is replaced by",
+    "q": "In Glycin an amino acid R group is replaced by",
     "index": 264
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Phosphodiester linkage",
       "B.": "Glycosidic bond",
       "C.": "Peptide bond",
       "D.": "Hydrogen bond"
     },
-    "question": "A bond formed by linkage between -OH of carboxyl group of one amino acid and H of amino group of another amino acid which releases water is called",
+    "q": "A bond formed by linkage between -OH of carboxyl group of one amino acid and H of amino group of another amino acid which releases water is called",
     "index": 265
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "554",
       "B.": "564",
       "C.": "574",
       "D.": "584"
     },
-    "question": "Total number of amino acids in a hemoglobin molecule are:",
+    "q": "Total number of amino acids in a hemoglobin molecule are:",
     "index": 266
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "1",
       "B.": "2",
       "C.": "3",
       "D.": "4"
     },
-    "question": "An insulin molecule consists of _____ polypeptide chains.",
+    "q": "An insulin molecule consists of _____ polypeptide chains.",
     "index": 267
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Primary structure",
       "B.": "Secondary structure",
       "C.": "Tertiary structure",
       "D.": "Quaternary structure"
     },
-    "question": "Which structure of protein gives information aboutnumber and sequence of amino acids in it?",
+    "q": "Which structure of protein gives information aboutnumber and sequence of amino acids in it?",
     "index": 268
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Hydrophobic",
       "B.": "Hydrophilic",
       "C.": "Basic",
       "D.": "None of these"
     },
-    "question": "In an aqueous environment the most stable tertiary conformation is that in which ______ amino acids are buried inside the conformation.",
+    "q": "In an aqueous environment the most stable tertiary conformation is that in which ______ amino acids are buried inside the conformation.",
     "index": 269
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Primary structure",
       "B.": "Secondary structure",
       "C.": "Tertiary structure",
       "D.": "Quaternary structure"
     },
-    "question": "Hemoglobin molecule exhibits which structural organization of proteins",
+    "q": "Hemoglobin molecule exhibits which structural organization of proteins",
     "index": 270
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "H bonds",
       "B.": "Disulphide Bond",
       "C.": "Ionic bond",
       "D.": "Hydrophobic bonds"
     },
-    "question": "?- helical structure is kept by the formation of _____ bonds among amino acids molecules.",
+    "q": "?- helical structure is kept by the formation of _____ bonds among amino acids molecules.",
     "index": 271
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Haemoglobin",
       "B.": "Pepsin",
       "C.": "Fibrin",
       "D.": "Insulin"
     },
-    "question": "Which of the following does not show quaternary structure?",
+    "q": "Which of the following does not show quaternary structure?",
     "index": 272
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Primary",
       "B.": "Secondary",
       "C.": "Tertiary",
       "D.": "Quaternary"
     },
-    "question": "Which structural organization is most common in globular proteins?",
+    "q": "Which structural organization is most common in globular proteins?",
     "index": 273
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Globular proteins",
       "B.": "Fibrous Proteins",
       "C.": "Both a and b",
       "D.": "None of these"
     },
-    "question": "Actin and myosin are the basic proteins involved in contractile machinery of our body to which type of proteins do they belong?",
+    "q": "Actin and myosin are the basic proteins involved in contractile machinery of our body to which type of proteins do they belong?",
     "index": 274
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Globular proteins",
       "B.": "Fibrous Proteins",
       "C.": "Both a and b",
       "D.": "None of these"
     },
-    "question": "Antibodies play important role against microorganisms and other pathogens to which type of proteins do they belong?",
+    "q": "Antibodies play important role against microorganisms and other pathogens to which type of proteins do they belong?",
     "index": 275
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "As an energy currency of the cell",
       "B.": "As a coenzyme",
       "C.": "Both a and b",
       "D.": "None of these"
     },
-    "question": "ATP is a an important molecule for its major function",
+    "q": "ATP is a an important molecule for its major function",
     "index": 276
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "5",
       "B.": "10",
       "C.": "20",
       "D.": "25"
     },
-    "question": "Each turn of DNA contain _______ nitrogenous base pairs",
+    "q": "Each turn of DNA contain _______ nitrogenous base pairs",
     "index": 277
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Human beings",
       "B.": "Influenza Virus",
       "C.": "Hemophilus Influenza",
       "D.": "None of these"
     },
-    "question": "The first organism of whose genome was completely discovered was",
+    "q": "The first organism of whose genome was completely discovered was",
     "index": 278
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "The pentose sugar in it is Ribose.",
       "B.": "It contains Adenine Guanine Thymine and Cytosine",
       "C.": "It is present in the nucleoli",
       "D.": "It may be folded back on itself to give double helical characteristics."
     },
-    "question": "Which of the following statement is incorrect about RNA?",
+    "q": "Which of the following statement is incorrect about RNA?",
     "index": 279
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "3-4 %",
       "B.": "10-20%",
       "C.": "80%",
       "D.": "90%"
     },
-    "question": "rRNA constitutes _____ % of the total cellular RNA.",
+    "q": "rRNA constitutes _____ % of the total cellular RNA.",
     "index": 280
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "170",
       "B.": "20",
       "C.": "25",
       "D.": "15"
     },
-    "question": "There are mainly _______ types of tRNA",
+    "q": "There are mainly _______ types of tRNA",
     "index": 281
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Glycolipids",
       "B.": "Glycoproteins",
       "C.": "Nucleohistones",
       "D.": "Proteins"
     },
-    "question": "Most of the cellular secretions are _____ in nature.",
+    "q": "Most of the cellular secretions are _____ in nature.",
     "index": 282
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Glycolipids",
       "B.": "Glycoproteins",
       "C.": "Nucleohistones",
       "D.": "None of these"
     },
-    "question": "Which conjegated molecules play important role in gene expression?",
+    "q": "Which conjegated molecules play important role in gene expression?",
     "index": 283
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Chemicals",
       "B.": "Hydrocarbons",
       "C.": "Organic molecules",
       "D.": "Inorganic molecules"
     },
-    "question": "The survival of an animal depends upon its ability to take some from its environment",
+    "q": "The survival of an animal depends upon its ability to take some from its environment",
     "index": 284
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Coordinated catabolic activities",
       "B.": "Coordinated anabolic activities",
       "C.": "Both A and B",
       "D.": "Any one"
     },
-    "question": "Interconversion of carbohydrates proteins and lipids in living cells are an example of",
+    "q": "Interconversion of carbohydrates proteins and lipids in living cells are an example of",
     "index": 285
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "H",
       "B.": "N & O",
       "C.": "P & S",
       "D.": "All of these"
     },
-    "question": "Carbon commonly combines with",
+    "q": "Carbon commonly combines with",
     "index": 286
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Soluble",
       "B.": "Insoluble",
       "C.": "Partially soluble",
       "D.": "Depends upon condition"
     },
-    "question": "Non polar organic molecules are _______ in water.",
+    "q": "Non polar organic molecules are _______ in water.",
     "index": 287
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Carbohydrates",
       "B.": "Fatty acid",
       "C.": "Water",
       "D.": "Protein"
     },
-    "question": "In living organisms the lubricant which provides protection against damage resulting from friction is",
+    "q": "In living organisms the lubricant which provides protection against damage resulting from friction is",
     "index": 288
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "1 to 3 thousand",
       "B.": "3 to many thousand",
       "C.": "3 to 5 thousand",
       "D.": "5 to 9 thousand"
     },
-    "question": "In Cx(H2O)y x ranges from",
+    "q": "In Cx(H2O)y x ranges from",
     "index": 289
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Extracellular",
       "B.": "Intracellular",
       "C.": "Both of these",
       "D.": "Glucose"
     },
-    "question": "Glycolipids and glycoproteins have structural role in the _____ matrix of animal and bacterial cell",
+    "q": "Glycolipids and glycoproteins have structural role in the _____ matrix of animal and bacterial cell",
     "index": 290
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Glyceraldehydes",
       "B.": "Dihydroxy acetone",
       "C.": "Both of these",
       "D.": "None of these"
     },
-    "question": "The trioses which are intermediate in respiration and photosynthesis are",
+    "q": "The trioses which are intermediate in respiration and photosynthesis are",
     "index": 291
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "CO",
       "B.": "C-COO-C",
       "C.": "HCOH",
       "D.": "HOH"
     },
-    "question": "Keto group is represented as",
+    "q": "Keto group is represented as",
     "index": 292
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Trioses",
       "B.": "Hexoses",
       "C.": "Tetroses",
       "D.": "Pentoses"
     },
-    "question": "The monosaccharide found in some bacteria and occurring rarely are",
+    "q": "The monosaccharide found in some bacteria and occurring rarely are",
     "index": 293
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "3",
       "B.": "4",
       "C.": "5",
       "D.": "2"
     },
-    "question": "How many carbon atoms are required to form a furan ring (ribofuranose)",
+    "q": "How many carbon atoms are required to form a furan ring (ribofuranose)",
     "index": 294
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Organic acid",
       "B.": "Alcohol",
       "C.": "Water",
       "D.": "Sugar"
     },
-    "question": "In esterification OH comes from",
+    "q": "In esterification OH comes from",
     "index": 295
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Natural lipid",
       "B.": "Neutral lipid",
       "C.": "Neutral wax",
       "D.": "All of these"
     },
-    "question": "Triglyceride is also known as",
+    "q": "Triglyceride is also known as",
     "index": 296
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "C-6",
       "B.": "C-25",
       "C.": "C-26",
       "D.": "C-30"
     },
-    "question": "Which one is not found in fatty acids in acylglycerols?",
+    "q": "Which one is not found in fatty acids in acylglycerols?",
     "index": 297
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Liquids",
       "B.": "Gases",
       "C.": "Solids",
       "D.": "None of these"
     },
-    "question": "Animals fats are ___________ atroom temperature",
+    "q": "Animals fats are ___________ atroom temperature",
     "index": 298
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Interphase",
       "B.": "Resting phase",
       "C.": "Mitotic phase",
       "D.": "Cell cycle"
     },
-    "question": "Period between two consecutive divisions is called",
+    "q": "Period between two consecutive divisions is called",
     "index": 299
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "G1 phase",
       "B.": "S phase",
       "C.": "G2 phase",
       "D.": "G0 phase"
     },
-    "question": "DNA is synthesized and chromosome number is doubled in",
+    "q": "DNA is synthesized and chromosome number is doubled in",
     "index": 300
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "G0 phase",
       "B.": "G1 phase",
       "C.": "G2 phase",
       "D.": "S phase"
     },
-    "question": "In case of neurons, post mitotic cell escapes cell cycle and remain in _______ phase whthout proliferating further",
+    "q": "In case of neurons, post mitotic cell escapes cell cycle and remain in _______ phase whthout proliferating further",
     "index": 301
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "In human, cell cycle is about 24 hrs",
       "B.": "Mitosis takes 30 min",
       "C.": "G2 5.5 hrs",
       "D.": "Yeast cell only 90 min"
     },
-    "question": "Which statement is incorrect?",
+    "q": "Which statement is incorrect?",
     "index": 302
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Diploid cells only",
       "B.": "Haploid cells only",
       "C.": "Both diploid and haploid cells",
       "D.": "Monoploid cells"
     },
-    "question": "Mitosis occurs in",
+    "q": "Mitosis occurs in",
     "index": 303
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Action protein",
       "B.": "Actin and myosin proteins",
       "C.": "Sphingomyelin and tubulin",
       "D.": "Tubulin protein and traces of RNA"
     },
-    "question": "Microtubules are composed of",
+    "q": "Microtubules are composed of",
     "index": 304
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "2",
       "B.": "3",
       "C.": "4",
       "D.": "5"
     },
-    "question": "From each pair of centrioles ________ sets of microtubules originate",
+    "q": "From each pair of centrioles ________ sets of microtubules originate",
     "index": 305
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Aster and spindle",
       "B.": "Polar and kinetochore microtubules",
       "C.": "Spindle and RNA",
       "D.": "Spindle only"
     },
-    "question": "Mitotic apparatus in animals is formed by",
+    "q": "Mitotic apparatus in animals is formed by",
     "index": 306
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Chromatin",
       "B.": "Aster",
       "C.": "Kinetochore",
       "D.": "Primary constriction"
     },
-    "question": "A special area of centromere with specific base arrangement and specific proteins where spindle fibers are attached is called",
+    "q": "A special area of centromere with specific base arrangement and specific proteins where spindle fibers are attached is called",
     "index": 307
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "5",
       "B.": "4",
       "C.": "3",
       "D.": "2"
     },
-    "question": "Each kinetochore gets ________ fibers in mitosis",
+    "q": "Each kinetochore gets ________ fibers in mitosis",
     "index": 308
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Prophase",
       "B.": "Anaphase",
       "C.": "Metaphase",
       "D.": "Telophase"
     },
-    "question": "Most critical phase of mitosis is",
+    "q": "Most critical phase of mitosis is",
     "index": 309
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Interphase",
       "B.": "Metaphase",
       "C.": "Anaphase",
       "D.": "Telophase"
     },
-    "question": "Reverse of prophase is",
+    "q": "Reverse of prophase is",
     "index": 310
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Centriole",
       "B.": "Centriole and asters",
       "C.": "Centrioles, asters and spindles",
       "D.": "Spindles only"
     },
-    "question": "In plants mitotic apparatus consists of",
+    "q": "In plants mitotic apparatus consists of",
     "index": 311
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Formed from vesicle originating from Golgi apparatus",
       "B.": "Present in plants only",
       "C.": "Formed at the end of anaphase",
       "D.": "Centre of dividing cell"
     },
-    "question": "Which statement is not true about phragmoplast?",
+    "q": "Which statement is not true about phragmoplast?",
     "index": 312
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Benign tumors",
       "B.": "Cancer",
       "C.": "Metastasis",
       "D.": "Epistasis"
     },
-    "question": "Spread of tumor cells and establishment of secondary areas of growth is",
+    "q": "Spread of tumor cells and establishment of secondary areas of growth is",
     "index": 313
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Localized",
       "B.": "Little deleterious effects",
       "C.": "Few mitosis",
       "D.": "Metastasize"
     },
-    "question": "Which is a feature of malignant tumor?",
+    "q": "Which is a feature of malignant tumor?",
     "index": 314
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "High nucleus to cytoplasmic ratio",
       "B.": "Prominent nucleoli",
       "C.": "Many mitosis",
       "D.": "All of these"
     },
-    "question": "Feature of cancer cells in common?",
+    "q": "Feature of cancer cells in common?",
     "index": 315
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Diploid cells only",
       "B.": "Haploid cells only",
       "C.": "Both diploid and haploid cells",
       "D.": "Monoploid cells only"
     },
-    "question": "Meiosis occur in",
+    "q": "Meiosis occur in",
     "index": 316
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Gamete formation in animals",
       "B.": "Spore formattion in plants",
       "C.": "Growth in animals",
       "D.": "Both a and b"
     },
-    "question": "Meiosis occurs at the time of",
+    "q": "Meiosis occurs at the time of",
     "index": 317
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "G0 phase",
       "B.": "G1 phase",
       "C.": "G2 phase",
       "D.": "S phase"
     },
-    "question": "Interphase of meiosis lacks",
+    "q": "Interphase of meiosis lacks",
     "index": 318
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Similar and identical",
       "B.": "Identical but not similar",
       "C.": "Not similar and not identical",
       "D.": "Similar but not identical"
     },
-    "question": "Homologous chromosomes are",
+    "q": "Homologous chromosomes are",
     "index": 319
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Metaphase",
       "B.": "Anaphase",
       "C.": "Prophase",
       "D.": "Telophase"
     },
-    "question": "The longest phase of meiosis I is",
+    "q": "The longest phase of meiosis I is",
     "index": 320
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Paired homologous chromosome but not fused complex structure",
       "B.": "2 unpaired homologous chromosome",
       "C.": "Paired and fused complex structure",
       "D.": "None of these"
     },
-    "question": "Tetrad or bivalent is",
+    "q": "Tetrad or bivalent is",
     "index": 321
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Leptotene",
       "B.": "Zygotene",
       "C.": "Pachytene",
       "D.": "Diplotene"
     },
-    "question": "Pairing of homologous chromosomes is completed in",
+    "q": "Pairing of homologous chromosomes is completed in",
     "index": 322
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "3 chromatids",
       "B.": "4 chromatids",
       "C.": "5 chromatids",
       "D.": "2 chromatids"
     },
-    "question": "Each bivalent has",
+    "q": "Each bivalent has",
     "index": 323
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Sister chromatids",
       "B.": "Non sister chromatids",
       "C.": "Independent chromatids",
       "D.": "Each and every chromatid"
     },
-    "question": "Crossing over occurs between",
+    "q": "Crossing over occurs between",
     "index": 324
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Crossing over",
       "B.": "Chromosomal disjunction",
       "C.": "Chromosomal nondisjunction",
       "D.": "None of these"
     },
-    "question": "Inability of chromosomes to segregate during anaphase and telophase of meiosis is called",
+    "q": "Inability of chromosomes to segregate during anaphase and telophase of meiosis is called",
     "index": 325
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Down's syndrome involves autosome",
       "B.": "In Turner's syndrome 2n-1",
       "C.": "In Klinefelter's syndrome XYY",
       "D.": "In Down's syndrome sperms are commonly involved"
     },
-    "question": "Which statement is incorrect?",
+    "q": "Which statement is incorrect?",
     "index": 326
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Cell death due to tissue damage",
       "B.": "Causes inflammation",
       "C.": "Internal programme of events by which cell commits suicide",
       "D.": "Damages neighboring cells"
     },
-    "question": "Apoptosis",
+    "q": "Apoptosis",
     "index": 327
   },
   {
-    "answer": "A",
+    "a": "A",
     "options": {
       "A.": "Mitosis",
       "B.": "Meiosis",
       "C.": "Amitosis",
       "D.": "Budding"
     },
-    "question": "A cell of human being has 46 chromosomes; it divides to form some daughter cells, each having 23 pairs of chromosomes. The division would be",
+    "q": "A cell of human being has 46 chromosomes; it divides to form some daughter cells, each having 23 pairs of chromosomes. The division would be",
     "index": 328
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Healing of wound",
       "B.": "Development and growth",
       "C.": "Vegetative propagation",
       "D.": "All of these"
     },
-    "question": "Mitosis takes place during",
+    "q": "Mitosis takes place during",
     "index": 329
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "A male having 2 X chromosomes",
       "B.": "A female having 3 X chromosomes",
       "C.": "A male having only 1 Y chromosome",
       "D.": "A female having only 1 X chromosome"
     },
-    "question": "Which of the following category comes under Turner's syndrome?",
+    "q": "Which of the following category comes under Turner's syndrome?",
     "index": 330
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Telophase",
       "B.": "Metaphase",
       "C.": "Prophase",
       "D.": "All of these"
     },
-    "question": "Morphology of chromosomes is best studied during",
+    "q": "Morphology of chromosomes is best studied during",
     "index": 331
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Division of nucleus",
       "B.": "Division of cytoplasm",
       "C.": "Division of cell",
       "D.": "All of these"
     },
-    "question": "Cytokinins refers to",
+    "q": "Cytokinins refers to",
     "index": 332
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Astral fibers",
       "B.": "Kinetochore fibers",
       "C.": "Polar fibers",
       "D.": "All of these"
     },
-    "question": "Which fibers intedigitate with each other?",
+    "q": "Which fibers intedigitate with each other?",
     "index": 333
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "Differentiated",
       "B.": "Undifferentiated",
       "C.": "Highly differentiated",
       "D.": "Less differentiated"
     },
-    "question": "Cancer cells are",
+    "q": "Cancer cells are",
     "index": 334
   },
   {
-    "answer": "B",
+    "a": "B",
     "options": {
       "A.": "Zygotene",
       "B.": "Pachytene",
       "C.": "Dislotene",
       "D.": "Diakinesis"
     },
-    "question": "Crossing over in meiosis occurs during",
+    "q": "Crossing over in meiosis occurs during",
     "index": 335
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Mitosis",
       "B.": "Meiosis I",
       "C.": "Meiosis II",
       "D.": "None of these"
     },
-    "question": "Which division does not show replication of chromosomes?",
+    "q": "Which division does not show replication of chromosomes?",
     "index": 336
   },
   {
-    "answer": "C",
+    "a": "C",
     "options": {
       "A.": "Crossing over",
       "B.": "Random assortment",
       "C.": "Both of these",
       "D.": "None of these"
     },
-    "question": "A significant happening of meiosis is / are",
+    "q": "A significant happening of meiosis is / are",
     "index": 337
   },
   {
-    "answer": "D",
+    "a": "D",
     "options": {
       "A.": "XO",
       "B.": "XXX",
       "C.": "XXY",
       "D.": "XYY"
     },
-    "question": "Jacob's syndrome can be represented as",
+    "q": "Jacob's syndrome can be represented as",
     "index": 338
   }
 ]
