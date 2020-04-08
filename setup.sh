@@ -2,6 +2,8 @@
 ## setup bert virtualenv
 virtualenv -p python3.6 .bert
 source .bert/bin/activate
+pip3 install textblob
+pip3 install mysql-connector-python
 pip3 install tensorflow==1.13.1
 pip3 install bert-serving-client
 pip3 install bert-serving-server

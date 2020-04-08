@@ -26,3 +26,25 @@ to stop the server
 ```shell script
 ./stop_bert_service.sh
 ```
+
+GCS login
+gcloud compute ssh virtuoso_irfan@rasa-qa-bot --zone us-central1-a
+
+ip address of GCS server
+http://35.184.237.131:5005/
+
+Database dump
+```shell script
+mysqldump -u Onjoroge1 -h Onjoroge1.mysql.pythonanywhere-services.com 'Onjoroge1$Questions' > Questions.sql;
+```
+
+create database on local machine
+```shell script
+mysql -u root -p
+create database Questions;
+```
+
+Dump remote db into local
+```shell script
+mysql -u root –p @pp!fy Questions < Questions.sql;
+```
