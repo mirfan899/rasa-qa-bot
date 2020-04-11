@@ -25,13 +25,15 @@ for row in rows:
     # using polyglot but it is not a good language predictor but free.
     q = " ".join(row[1].splitlines())
     a = " ".join(row[2].splitlines())
+    q = re.sub("\r+", " ", q)
+    a = re.sub("\n+", " ", a)
     q = re.sub("\s+", " ", q)
     a = re.sub("\s+", " ", a)
     q = Detector(q, quiet=True)
     a = Detector(a, quiet=True)
     if q.language.code == "en" and a.language.code == "en":
-        questions.append(row[1])
-        answers.append(row[2])
+        questions.append(row[1].strip())
+        answers.append(row[2].strip())
 
 # Close connection
 cnx.close()
