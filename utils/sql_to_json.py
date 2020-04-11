@@ -1,13 +1,8 @@
 import mysql.connector
-import os
+from polyglot.detect import Detector
+import re
 import pandas as pd
-from google.cloud import translate_v2 as translate
-# Usin service account of My Project on GCP
-path = "filename.json"
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = path
 
-translate_client = translate.Client()
-# Connect to server
 cnx = mysql.connector.connect(
     host="127.0.0.1",
     port=3306,
@@ -27,18 +22,22 @@ questions = []
 answers = []
 rows = cur.fetchall()
 for row in rows:
-    q = translate_client.detect_language(row[1])
-    a = translate_client.detect_language(row[2])
-    if q["language"] == 'en' and a["language"] == 'en':
+    # using polyglot but it is not a good language predictor but free.
+    q = " ".join(row[1].splitlines())
+    a = " ".join(row[2].splitlines())
+    q = re.sub("\s+", " ", q)
+    a = re.sub("\s+", " ", a)
+    q = Detector(q, quiet=True)
+    a = Detector(a, quiet=True)
+    if q.language.code == "en" and a.language.code == "en":
         questions.append(row[1])
         answers.append(row[2])
 
 # Close connection
 cnx.close()
 
-data = pd.DataFrame({"questions": questions, "answers": answers})
-print(data.head(5))
+data = pd.DataFrame({"q": questions, "a": answers})
 data.dropna(inplace=True)
 data.drop_duplicates(inplace=True)
 
-data.to_csv("english_questions_answers.csv", index=False)
+data.to_json("english_questions_answers.json", orient="records")
