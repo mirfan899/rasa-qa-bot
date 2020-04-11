@@ -3,7 +3,7 @@ import json
 qa = json.load(open("english_questions_answers.json", encoding="utf-8"))
 questions = []
 for dic in qa:
-    for k, v in qa.items():
+    for k, v in dic.items():
         if k is "q":
             questions.append(v)
 
