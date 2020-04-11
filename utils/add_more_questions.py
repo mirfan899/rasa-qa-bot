@@ -5,4 +5,4 @@ questions = [question["q"].strip() for question in questions]
 
 md = open("data/nlu/qa.md", "a")
 for question in questions:
-    md.write("- " + question["q"] + "\n")
+    md.write("- " + question + "\n")
