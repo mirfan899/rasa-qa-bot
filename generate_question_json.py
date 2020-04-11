@@ -1,7 +1,5 @@
-#!/usr/bin/env python
 # encoding: utf-8
 import json
-import random
 import glob
 files = glob.glob("questions/*.json")
 
@@ -12,8 +10,8 @@ for file_ in files:
         questions.append(question["question"])
 
 print(len(questions))
-md = open("data/nlu/faq.md", "a")
-md.write("## intent:faq\n")
+md = open("data/nlu/qa.md", "a")
+md.write("## intent:qa\n")
 for question in questions:
     md.write("- " + question + "\n")
 json.dump(questions, open("data/questions.json", "w", encoding="utf-8"), ensure_ascii=False, indent=4)
