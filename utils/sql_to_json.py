@@ -1,3 +1,5 @@
+import json
+
 import mysql.connector
 from polyglot.detect import Detector
 import re
@@ -37,9 +39,14 @@ for row in rows:
 
 # Close connection
 cnx.close()
+js = []
+for q, a in zip(questions, answers):
+    js.append({"q": q, "a": a})
 
-data = pd.DataFrame({"q": questions, "a": answers})
-data.dropna(inplace=True)
-data.drop_duplicates(inplace=True)
-
-data.to_json("english_questions_answers.json", orient="records")
+with open("english_questions_answers.json", encoding="utf8") as qa:
+    json.dump(js, qa, indent=4)
+# data = pd.DataFrame({"q": questions, "a": answers})
+# data.dropna(inplace=True)
+# data.drop_duplicates(inplace=True)
+#
+# data.to_json("english_questions_answers.json", orient="records")

@@ -1,50 +1,82 @@
-### Install spacy 
+### Clone the repo
+```shell script
+git clone sudo https://github.com/mirfan899/rasa-qa-bot.git
+cd rasa-qa-bot
+```
+
+### Create virtualenvs
+Run the shell script, which will create two virtualenvs. One for Rasa and second for BERT
+```shell script
+sudo ./setup.sh
+```
+
+### Services for Bert and rasa
+Copy `systemctl` services files to proper location
+```shell script
+sudo cp rasa_run.service /etc/systemd/system/rasa.service
+sudo cp bert_run.service /etc/systemd/system/bert.service
+sudo cp rasa_actions.service /etc/systemd/system/actions.service
+```
+
+### Install SpaCy
+We need to install SpaCy. 
 ```shell script
 pip3 install spacy
 ```
 ## SpaCy model download and link
+Install English model
 ```shell script
 python -m spacy download en_core_web_sm
 python -m spacy link en_core_web_sm en
 ```
-
-## run rasa server
+### Train the Rasa model
 ```shell script
-python -m rasa run --enable-api --cors "*"
+python -m rasa train
 ```
 
-## run flask app
+## Run Rasa server and BERT server
+Enable the CORS for any web api. There is a shell script which and service which will run at as deamon process for
+deployment. If you setting up this repository, you need to fix the paths in `systemctl` service files i.e. `rasa_run.service`, `rasa_actions.service`
+`bert_run.service`
+```shell script
+sudo systemctl start rasa
+sudo systemctl start actions
+```
+
+## Run flask app
+For testing purpose run the flask app.
 ```shell script
 export FLASK_APP=app.py && flask run
 ```
 
-## run bert server
+## Run bert server
 ```shell script
-./start_bert_service.sh
+sudo systemctl start bert
 ```
 to stop the server
 ```shell script
-./stop_bert_service.sh
+sudo systemctl stop bert
 ```
 
-GCS login
-gcloud compute ssh virtuoso_irfan@rasa-qa-bot --zone us-central1-a
-
-ip address of GCS server
-http://35.184.237.131:5005/
-
-Database dump
+## Adding questions to Rasa bot.
+If you want to add questions to Rasa NLU Bot use this file `data/nlu/qa.md`, there is a script which uses the json format for adding the question into model.
 ```shell script
-mysqldump -u Onjoroge1 -h Onjoroge1.mysql.pythonanywhere-services.com 'Onjoroge1$Questions' > Questions.sql;
+python utils/add_more_questions.py
 ```
-
-create database on local machine
-```shell script
-mysql -u root -p
-create database Questions;
+It will look for file with name `english_questions_answers.json` with format
+```python
+[
+    {
+        "q": "Question here",
+        "a": "Answer here"
+    },
+    {
+        "q": "Another Question here",
+        "a": "Another Answer here"
+    }
+]
 ```
-
-Dump remote db into local
+this script will merge two json files containing questions and answers.
 ```shell script
-mysql -u root –p @pp!fy Questions < Questions.sql;
+python utils/merge_json.py
 ```
